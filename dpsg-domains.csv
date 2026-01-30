@@ -526,7 +526,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 10/12/03,Stamm,"Bonn-Stadtmitte, Phönix",-
 10/12/04,Stamm,"Bonn-Beuel, Sugambrer",stamm-sugambrer.de
 10/13/00,Bezirk,"Bezirk Siebengebirge",dpsg-siebengebirge.de
-10/13/01,Stamm,"Königswinter, Heisterbacherrott",
+10/13/01,Stamm,"Königswinter, Heisterbacherrott",-
 10/13/02,Stamm,"Sugambrer Hennef-Warth",sugambrer.de
 10/13/03,Stamm,"Königswinter-Ittenbach, Idubag",dpsg-ittenbach.de
 10/13/04,Stamm,"Ruppichterroth",-
@@ -600,7 +600,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 12/02/00,Bezirk,"Bezirk Rhein-Main-Hessen",der-beste-bezirk.de
 12/02/01,Stamm,"Rüsselsheim, Partner Erde",dpsg-ruesselsheim.de
 12/02/03,Stamm,"Mainz-Gonsenheim, St. Stephan",dpsg-gonsenheim.de
-12/02/05,Stamm,"Klein-Winternheim",
+12/02/05,Stamm,"Klein-Winternheim",-
 12/02/07,Stamm,"Ingelheim, Nikolaus von Flüe",dpsg-ingelheim.de
 12/02/08,Stamm,"Schwabenheim, Greifenklau",stamm-greifenklau.de
 12/02/09,Stamm,"Budenheim, Don Bosco",pfadfinder-budenheim.de
@@ -796,7 +796,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 14/07/17,Stamm,"Herz-Jesu Münster",dpsg-herz-jesu-muenster.de
 14/08/00,Bezirk,"Bezirk Niederrhein-Süd",bezirk-nrs.de
 14/08/01,Stamm,"Moers-Wesel, St. Josef",dpsg-moers.de
-14/08/04,Stamm,"Duisburg-Homberg, Hochheide",
+14/08/04,Stamm,"Duisburg-Homberg, Hochheide",-
 14/08/06,Stamm,"Duisburg-Rheinhausen, Christus König",dpsg-ck.de
 14/08/07,Stamm,"Dinslaken, St. Vincentius",dpsg-din.de
 14/08/11,Stamm,"Duisburg, St. Ludger",-
