@@ -12,8 +12,8 @@ Ergänzungen und Korrekturvorschläge sind jederzeit willkommen.
 ### Gruppierungen mit eigener Domain
 
 - Insgesamt
-    - 1010 von 1264 Gruppierungen
-    - 80 %
+    - 1004 von 1264 Gruppierungen
+    - 79 %
 - Bundesverband
     - 1 von 1 Bundesverband
     - 100 %
@@ -24,7 +24,7 @@ Ergänzungen und Korrekturvorschläge sind jederzeit willkommen.
     - 88 von 117 Bezirken
     - 75 %
 - Stämme
-    - 881 von 1095 Stämmen
+    - 876 von 1095 Stämmen
     - 80 %
 - Siedlungen
     - 14 von 26 Siedlungen

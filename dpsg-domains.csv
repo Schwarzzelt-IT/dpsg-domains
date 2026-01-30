@@ -356,7 +356,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 07/11/00,Bezirk,"Bezirk Pforzheim",dpsg-pforzheim.de
 07/11/02,Stamm,"Pforzheim, Arnulf",-
 07/11/04,Siedlung,"Remchingen, Eisingen",-
-07/11/05,Stamm,"Pforzheim, St. Franziskus",dpsg-pforzheim.de
+07/11/05,Stamm,"Pforzheim, St. Franziskus",-
 07/13/00,Bezirk,"Bezirk Odenwald-Tauber",dpsg-odenwald-tauber.de
 07/13/02,Stamm,"Mosbach, Bernhard von Baden",dpsg-mosbach.de
 07/13/03,Stamm,"Don Bosco, Neckarelz-Diedesheim",dpsg-neckarelz-diedesheim.de
@@ -1218,7 +1218,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 22/08/06,Stamm,"Lohr-Sendelbach, St. Josef",dpsg-sendelbach.de
 22/10/00,Bezirk,"Bezirk Mainfranken",-
 22/10/01,Stamm,"Randersacker, St. Stephanus",-
-22/10/02,Stamm,"Ochsenfurt, Konradin",stamm-konradin.de
+22/10/02,Stamm,"Ochsenfurt, Konradin",-
 22/10/05,Stamm,"Rimpar,Tilman Riemenschneider",dpsg-rimpar.de
 22/10/06,Stamm,"Reichenberg/Hattenhausen",stamm-hattenhausen.de
 22/10/09,Stamm,"Stadtschwarzach",dpsg-schwarzach.de
