@@ -1,0 +1,1265 @@
+Gr. Nr.,Ebene,Gruppierung,Domain,ASN,CMS
+00/00/00,Bundesebene,DPSG Bundesverband,dpsg.de,Hetzner Online GmbH,Drupal
+01/00/00,Diözese,Diözesanverband Aachen,dpsg-ac.de,Hetzner Online GmbH,WordPress
+01/01/00,Bezirk,RheinBezirk,rheinbezirk.de,Microsoft Corporation,Unknown
+01/01/01,Stamm,"Krefeld-Cracau, St. Elisabeth",lagerfeuer.org,Microsoft Corporation,Unknown
+01/01/02,Stamm,"Krefeld, St. Norbertus",-,,
+01/01/03,Stamm,"Krefeld, Inrath",dpsg-inrath.de,One.com A/S,WordPress
+01/01/05,Stamm,Stamm Linn,stamm-linn.de,Hetzner Online GmbH,Unknown
+01/01/06,Stamm,"Meerbusch-Lank-Latum, Lank Rheinfranken",stamm-lank.de,Strato GmbH,WordPress
+01/01/07,Stamm,Krefeld-Uerdingen/Ostgoten,ostgoten.de,EVANZO e-commerce GmbH,WordPress
+01/01/08,Stamm,Krefeld-Forstwald,dpsg-forstwald.de,uvensys GmbH,Joomla
+01/01/09,Stamm,"Krefeld-Lindenthal, Michael",stamm-st-michael.de,ecotel communication ag,Joomla
+01/01/10,Stamm,"Krefeld-Hüls, Raubritter",raubritter-huels.de,Strato GmbH,Unknown
+01/01/11,Stamm,"Krefeld, Kreuz-Ritter",stamm-kreuz-ritter.de,IONOS SE,WordPress
+01/02/00,Bezirk,Bezirk Grenzland,dpsg-grenzland.de,manitu GmbH,WordPress
+01/02/01,Stamm,"Schiefbahn, St. Hubertus",pfadfinder-schiefbahn.de,"Cloudflare, Inc.",HTTP Status 403
+01/02/02,Stamm,St. Lambertus Breyell,dpsg-breyell.de,dogado GmbH,WordPress
+01/02/04,Stamm,"Kaldenkirchen, St. Clemens",-,,
+01/02/05,Stamm,"Viersen, St. Remigius",dpsg-viersen.de,Hetzner Online GmbH,RemoteDisconnected
+01/02/06,Stamm,"St. Sebastian, Lobberich",dpsg-lobberich.de,Hosting.de GmbH,Unknown
+01/02/07,Stamm,St. Vitus Oedt,vitusscout.de,manitu GmbH,Unknown
+01/02/08,Stamm,"Hinsbeck, St. Peter",-,,
+01/02/09,Stamm,Dülken,dpsg-duelken.de,Vautron Rechenzentrum AG,WordPress
+01/02/12,Stamm,Kempen,dpsg-kempen.de,dogado GmbH,Joomla
+01/02/13,Stamm,"Tönisvorst, St. Tönis",dpsg-st-toenis.de,IONOS SE,Unknown
+01/02/14,Stamm,"Kempen, St. Hubert",dpsg-st-hubert.de,"Cloudflare, Inc.",HTTP Status 403
+01/02/15,Stamm,"Willich-Wekeln, St. Katharina",dpsg-willich.de,Contabo GmbH,WordPress
+01/03/00,Bezirk,Bezirk Mönchengladbach,dpsg-mg.de,Hetzner Online GmbH,WordPress
+01/03/01,Stamm,"Mönchengladbach, Scheuburg",scheuburg.de,UD Media GmbH,WordPress
+01/03/02,Stamm,"Mönchengladbach, Kreuzfahrer",pfadfinder-odenkirchen.de,Hetzner Online GmbH,WordPress
+01/03/03,Stamm,"Mönchengladbach, Giesenkirchen",stamm-giesenkirchen.de,Strato GmbH,WordPress
+01/03/04,Stamm,"Mönchengladbach-Rheydt, Cityscouts",cityscouts.org,One.com A/S,Unknown
+01/03/05,Stamm,"Mönchengladbach, Windberg",stamm-windberg.de,Hetzner Online GmbH,WordPress
+01/03/06,Stamm,"Jüchen-Bedburdyck, St. Martinus",-,,
+01/03/08,Stamm,"Mönchengladbach, Rabenhorst",stamm-rabenhorst.de,Strato GmbH,Wix.com Website Builder
+01/03/09,Stamm,"Mönchengladbach, Bettrath-Neuwerk",dpsgbettrath.de,"Cloudflare, Inc.",HTTP Status 403
+01/03/10,Stamm,"Mönchengladbach-Holt, Martin-Luther-King",dpsgmlk.de,ecotel communication ag,WordPress
+01/03/12,Stamm,"Mönchengladbach-Eicken, Trotzenburg",trotzenburg.de,Strato GmbH,WordPress
+01/03/14,Stamm,Stamm Otzenrath,pfadfinder-otzenrath.de,One.com A/S,WordPress
+01/03/15,Stamm,Stamm Salier Meerkamp eV,salier-meerkamp.de,One.com A/S,One.com Web Editor
+01/03/16,Stamm,Hochneukirch,stamm-hochneukirch.de,Michael Rottmann trading as Pixel X e.K.,Unknown
+01/03/17,Stamm,"Mönchengladbach-Rheydt, Fabula",stamm-fabula.de,IONOS SE,Unknown
+01/04/00,Bezirk,Bezirk Heinsberg,-,,
+01/04/03,Stamm,"Gangelt, St. Nikolaus",g-scouts.de,UD Media GmbH,HTTP Status 500
+01/04/07,Siedlung,"Hückelhoven-Doveren, Kreuzherren",-,,
+01/04/10,Stamm,"Wegberg, Titus Brandsma",dpsgwegberg.de,Microsoft Corporation,WordPress
+01/04/12,Stamm,Wegberg-Dalheim,dpsg-dalheim.de,Optitrust GmbH,Unknown
+01/04/13,Stamm,"Erkelenz-Mitte, St. Lambertus",pfadfinder-erkelenz.de,Strato GmbH,WordPress
+01/05/00,Bezirk,Bezirk Düren,bezirk-dueren.de,netcup GmbH,Unknown
+01/05/01,Stamm,Langerwehe,dpsg-langerwehe.de,netcup GmbH,WordPress
+01/05/03,Stamm,"Merzenich, St. Laurentius",-,,
+01/05/05,Stamm,"Jülich, Franz von Sales",pfadfinder-juelich.de,dogado GmbH,Joomla
+01/05/06,Stamm,Linnich,rurlinge.de,-,NameResolutionError
+01/05/08,Stamm,"Siersdorf, Kreuzritter",kreuzritter-siersdorf.de,Strato GmbH,WordPress
+01/05/09,Stamm,"Düren-Arnoldsweiler, St. Arnold",pfadfinder-st-arnold.de,IONOS SE,WordPress
+01/05/15,Stamm,"Düren, Wildgänse St. Anna",wildgaense-st-anna.de,IONOS SE,Unknown
+01/06/00,Bezirk,Bezirk Aachen-Land,-,,
+01/06/03,Stamm,"Eschweiler-Roehe, Deutschritter",deutschritter-roehe.de,IONOS SE,Unknown
+01/06/04,Stamm,"Dürwiss, St. Bonifatius",-,,
+01/06/05,Stamm,"Eschweiler-Röthgen, Hohensteiner",hohensteiner.com,Strato GmbH,WordPress
+01/06/06,Stamm,Stolberg,dpsg-stolberg.de,Hetzner Online GmbH,WordPress
+01/06/09,Stamm,"Stolberg-Schevenh., Wehebachthaler",wehebachthaler.de,"Squarespace, Inc.",Unknown
+01/06/12,Stamm,Stolberg-Breinig/Dorff,dpsg-breinig-dorff.de,IONOS SE,WordPress
+01/06/14,Stamm,Kohlscheid I,dpsg-kohlscheid1.de,Hetzner Online GmbH,WordPress
+01/06/16,Stamm,"Würselen, Bardenberg",pfadfinder-bardenberg.de,Neue Medien Muennich GmbH,WordPress
+01/06/17,Stamm,"Herzogenrath, Kämpchen-Bank",-,,
+01/06/20,Stamm,"Wuerselen, St. Pius X",-,,
+01/06/21,Stamm,"Alsdorf-Mariadorf, St. Marien",stamm-mariadorf.de,IONOS SE,Unknown
+01/07/00,Bezirk,Bezirk Eifel,dpsg-eifel.de,dogado GmbH,Unknown
+01/07/02,Stamm,"Blankenheim-Bl.dorf, Burgfalken",-,,
+01/07/03,Stamm,Hellenthal,dpsg-hellenthal.de,Strato GmbH,Unknown
+01/07/04,Stamm,Kall / Eifel,pfadfinder-kall.net,IONOS SE,Joomla
+01/07/05,Stamm,Blankenheim-Rohr,weisswoelfe.de,dogado GmbH,Joomla
+01/07/06,Stamm,"Simmerath-Lammersd., Maximilian Kolbe",pfadfinder-lammersdorf.de,TelemaxX Telekommunikation GmbH,Unknown
+01/07/11,Stamm,Hürtgenwald-Vossenack,pfadfinder-vossenack.de,dogado GmbH,WordPress
+01/08/00,Bezirk,Bezirk Aachen-Stadt,dpsg-aachen.de,Host Europe GmbH,WordPress
+01/08/01,Stamm,Grenzlandfalken,grenzlandfalken.de,dogado GmbH,WordPress
+01/08/02,Siedlung,Stamm Jakobiner,dpsg-jakobiner.de,IONOS SE,WordPress
+01/08/03,Stamm,"Aachen, Forster-Linde",forster-linde.de,Google LLC,Unknown
+01/08/05,Stamm,Stamm Heilig Kreuz,dpsg-heilig-kreuz.de,-,NameResolutionError
+01/08/06,Stamm,"Aachen-Brand, Kornelimünster",dpsg-brand.de,Neue Medien Muennich GmbH,WordPress
+01/08/07,Stamm,Aachen-Eilendorf,dpsg-eilendorf.de,Strato GmbH,WordPress
+01/08/08,Stamm,"Aachen-Laurensberg, Funkenflug",dpsgfunkenflug.de,Strato GmbH,Unknown
+01/08/10,Stamm,Stamm Westwind,dpsg-westwind.de,Neue Medien Muennich GmbH,WordPress
+01/08/11,Stamm,"Aachen-Oberforst., Vennfüssler",vennfuessler.de,UD Media GmbH,WordPress
+01/08/12,Stamm,"Aachen-Innenstadt, St. Adalbert",dpsg-adalbert.de,united-domains GmbH,HTTP Status 400
+02/00/00,Diözese,Diözesanverband Augsburg,dpsg-augsburg.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+02/01/00,Bezirk,Bezirk Donau-Ries,-,,
+02/01/02,Stamm,"Donauwörth, Mangold v. Wörth",pfadfinder-donauwoerth.de,EVANZO e-commerce GmbH,Unknown
+02/01/03,Stamm,"Gundelfingen, Kaspar v. Westernach",dpsg-gundelfingen.com,dogado GmbH,WordPress
+02/01/04,Stamm,"Nördlingen, Nordilo",pfadfinder-noerdlingen.de,Hetzner Online GmbH,WordPress
+02/01/06,Stamm,"Wallerstein, Wikinger",pfadfinder-wallerstein.de,IONOS SE,WordPress
+02/01/08,Stamm,Neuburg a.d.Donau,stamm-neuburg.de,Mittwald CM Service GmbH und Co. KG,Joomla
+02/02/00,Bezirk,Bezirk Augsburg,dpsg-bezirk-augsburg.de,Hetzner Online GmbH,WordPress
+02/02/01,Stamm,"Aichach, Otto von Wittelsbach",dpsg-aichach.de,Host Europe GmbH,WordPress
+02/02/05,Stamm,"Augsburg, Livingstone",-,,
+02/02/06,Stamm,"Augsburg-Hochzoll, St. Exupery",dpsg-hochzoll.de,Strato GmbH,WordPress
+02/02/07,Stamm,"Augsburg-Universitätsviertel, Salomon-Idler",dpsg-univiertel.de,Neue Medien Muennich GmbH,WordPress
+02/02/08,Stamm,"Augsburg, St. Konrad",dpsg-baerenkeller.de,Host Europe GmbH,HTTP Status 404
+02/02/10,Stamm,"Augsburg, St. Ulrich & Afra",-,,
+02/02/12,Stamm,Stadtbergen,dpsg-stadtbergen.de,Hetzner Online GmbH,WordPress
+02/02/13,Stamm,"Friedberg, Konradin",dpsg-friedberg.de,Hetzner Online GmbH,WordPress
+02/02/15,Stamm,"Augsburg-Haunst., Weiße Rose",dpsg-haunstetten.de,Mittwald CM Service GmbH und Co. KG,Unknown
+02/02/16,Stamm,"Kissing, Guy de Larigaudie",pfadfinder-kissing.de,Hetzner Online GmbH,Unknown
+02/02/18,Stamm,Neusäß,dpsg-neusaess.de,SpaceNet AG,WordPress
+02/03/00,Bezirk,Bezirk Rochus Spiecker,dpsg-rochus-spiecker.de,"Cloudflare, Inc.",WordPress
+02/03/01,Stamm,"Landsberg, M. Himmelfahrt",dpsg-landsberg.de,"Cloudflare, Inc.",Unknown
+02/03/03,Stamm,"Kaufering, Roncalli",dpsg-kaufering.de,"Cloudflare, Inc.",Unknown
+02/04/00,Bezirk,Bezirk Allgäu,pfadfinder-allgaeu.de,EVANZO e-commerce GmbH,Unknown
+02/04/02,Stamm,"Kaufbeuren, St. Martin",dpsg-kaufbeuren.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,HTTP Status 500
+02/04/08,Stamm,"Lindenberg, Tilia Monte",tiliamonte.de,Hosting.de GmbH,WordPress
+02/04/13,Stamm,"Ottobeuren, Gaugraf Silach",pfadfinder-ottobeuren.de,Neue Medien Muennich GmbH,WordPress
+02/05/00,Bezirk,Bezirk Iller,dpsg-iller.de,IONOS SE,WordPress
+02/05/02,Stamm,"Burgau, Tilly",dpsg-burgau.de,IONOS SE,Unknown
+02/05/03,Stamm,"Holzheim, Las Casas",-,,
+02/05/04,Stamm,Ichenhausen,-,,
+02/05/05,Stamm,"Krumbach, St. Michael",pfadfinder-krumbach.de,Neue Medien Muennich GmbH,Unknown
+02/05/07,Stamm,Oberelchingen,pfadfinder-oberelchingen.de,Strato GmbH,WordPress
+02/05/08,Stamm,"Vöhringen, Don Bosco",dpsg-voehringen.de,Strato GmbH,WordPress
+02/05/09,Stamm,"Weißenhorn, St. Franziskus",-,,
+02/05/10,Stamm,"Obergessertshausen, St. Peter",-,,
+03/00/00,Diözese,Diözesanverband Bamberg,dpsg-bamberg.de,Hetzner Online GmbH,WordPress
+03/01/00,Bezirk,Bezirk Nürnberg/Fürth,dpsg-bezirknf.de,Hetzner Online GmbH,WordPress
+03/01/04,Stamm,St. Ludwig Nürnberg,dpsg-ludwig.de,IONOS SE,WordPress
+03/01/05,Stamm,"Nürnberg, Maximilian Kolbe",dpsg-maxkolbe.de,"Cloudflare, Inc.",WordPress
+03/01/06,Stamm,"Nürnberg-Laufamholz, St. Otto",dpsg-otto.de,"Cloudflare, Inc.",WordPress
+03/01/07,Stamm,"Fürth - Mannhof, Sophie Magdalena Scholl",dpsg-sms.de,Strato GmbH,WordPress
+03/01/08,Stamm,"Nürnberg-Sebald, zu Unserer Lieben Frau",dpsg-ulf.de,IONOS SE,IONOS MyWebsite
+03/01/11,Stamm,"Nürnberg, St.Josef - Allerheiligen",dpsg-josef-allerheiligen.de,Hetzner Online GmbH,HTTP Status 400
+03/02/00,Bezirk,Bezirk 2,bezirk2.de,Hetzner Online GmbH,WordPress
+03/02/01,Stamm,Höchstadt-Hohestete,-,,
+03/02/02,Stamm,"Bamberg, Bischof Otto",-,,
+03/02/03,Stamm,"Uffenheim, Herz Jesu",-,,
+03/02/06,Stamm,"Hirschaid, St. Vitus",pfadfinder-hirschaid.de,netcup GmbH,WordPress
+03/02/07,Stamm,"Neustadt a.d.Aisch, St. Johannis",-,,
+03/02/08,Stamm,"Bamberg, St. Josef",-,,
+03/03/00,Bezirk,Bezirk Obermain,dpsg-obermain.de,Strato GmbH,WordPress
+03/03/01,Stamm,"Altenkunstadt, St. Kilian",dpsg-altenkunstadt.de,Strato GmbH,HTTP Status 500
+03/03/02,Stamm,"Lichtenfels, Andechs-Meran",sam-lichtenfels.de,SpaceNet AG,Unknown
+03/03/03,Stamm,"Bad Staffelstein, Andechs-Rothenau",dpsg-badstaffelstein.de,Strato GmbH,WordPress
+03/03/05,Stamm,"Kronach-Friesen, St. Georg",dpsg-friesen.de,Strato GmbH,Unknown
+03/03/08,Stamm,"Bayreuth, Hl. Kreuz",dpsg-bayreuth.de,Strato GmbH,WordPress
+03/04/00,Bezirk,Bezirk Schwabachgrund,dpsg-schwabachgrund.de,Hetzner Online GmbH,WordPress
+03/04/01,Stamm,"Erlangen-Sieglitzhof, St. Theresia",pfadfinder-erlangen.de,netcup GmbH,Unknown
+03/04/02,Stamm,"Erlangen, St. Bonifaz",dpsgbonifaz.de,SpaceNet AG,Joomla
+03/04/03,Stamm,"Uttenreuth, St. Kunigunde",pfadfinder-uttenreuth.de,"Cloudflare, Inc.",WordPress
+03/04/05,Stamm,Stamm Tennenlohe,dpsg-tennenlohe.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+03/04/06,Stamm,Aurachtal - Herzogenaurach,pfadfinder-aurachtal.de,Hetzner Online GmbH,WordPress
+03/04/08,Stamm,"Stamm St. Marien, Erlangen Bruck",-,,
+03/04/09,Stamm,Bubenreuth,dpsg-bubenreuth.de,Hetzner Online GmbH,WordPress
+04/00/00,Diözese,Diözesanverband Berlin,dpsg-berlin.de,manitu GmbH,WordPress
+04/00/01,Stamm,"Berlin-Pankow, St. Georg",-,,
+04/00/02,Siedlung,"Berlin-Tempelhof, Salvator",-,,
+04/01/01,Stamm,"Berlin-Moabit, St. Paulus",dpsg-st-paulus.de,Host Europe GmbH,Unknown
+04/01/02,Stamm,"Berlin-Neukölln (Gropiusstadt), Dominicus",sanktdominicus.de,Host Europe GmbH,WordPress
+04/01/04,Stamm,"Berlin-Lankwitz, Don Bosco",dpsg-donbosco.de,"Fastly, Inc.",Unknown
+04/01/05,Stamm,"Berlin-Charlottenburg, St. Ludwig, Phoenix",dpsg-phoenix.de,Host Europe GmbH,Unknown
+04/01/06,Stamm,"Berlin, St. Lambertus",-,,
+04/01/09,Stamm,"Berlin-Zehlendorf, St. Otto",dpsg-sankt-otto.de,Host Europe GmbH,WordPress
+04/01/10,Stamm,"Berlin, St. Bonifatius",boni-berlin.de,Host Europe GmbH,Unknown
+04/01/11,Stamm,"Berlin-Spandau, Anselm v. Havelberg",dpsg-avh.de,netcup GmbH,Unknown
+04/01/14,Stamm,"Michendorf, Impeesa",-,,
+04/01/15,Stamm,"Berlin-Spandau, St. Markus",-,,
+04/01/16,Stamm,"Berlin-Charlottenburg, Heilig Geist",-,,
+04/02/03,Stamm,"Greifswald, Boddenkieker",dpsg-boddenkieker.de,Neue Medien Muennich GmbH,Joomla
+04/02/07,Stamm,"Potsdam, Sanssouci",pfadis-potsdam.de,"Amazon.com, Inc.",Unknown
+05/00/00,Diözese,Diözesanverband Eichstätt,dpsg-eichstaett.de,Neue Medien Muennich GmbH,Joomla
+05/01/02,Stamm,"Neumarkt, Pfalzgraf Johann",dpsg-neumarkt.de,Strato GmbH,HTTP Status 403
+05/01/04,Stamm,"Wendelstein, St. Nikolaus",dpsgwendelstein.de,Strato GmbH,WordPress
+05/01/06,Stamm,"Roßtal, Horsadal",dpsg-rosstal.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+05/01/07,Stamm,Schwanstetten-Rednitzhembach,-,,
+05/02/01,Stamm,Eichstätt Dom,pfadfinder-eichstaett.de,Neue Medien Muennich GmbH,HTTP Status 403
+05/02/02,Stamm,"Weißenburg, Deutschritter",dpsg-weissenburg.de,netcup GmbH,WordPress
+05/02/04,Stamm,"Pleinfeld, St. Michael",-,,
+05/02/05,Stamm,Treuchtlingen,dpsg-treuchtlingen.de,IONOS SE,WordPress
+05/03/02,Stamm,"Spalt, St. Emmeram",pfadfinder-spalt.de,IONOS SE,WordPress
+05/03/03,Stamm,Gunzenhausen,dpsg-gunzenhausen.de,"Cloudflare, Inc.",HTTP Status 403
+05/04/01,Stamm,"Ingolstadt, Münsterritter",dpsg-muensterritter.de,"Amazon.com, Inc.",Webnode 2
+05/04/05,Stamm,"Ingolstadt, St. Pius",-,,
+06/00/00,Diözese,Diözesanverband Essen,dpsg-essen.de,Hetzner Online GmbH,WordPress
+06/01/00,Bezirk,DPSG Bezirk Borbeck & Frohnhausen,dpsg-essen-bofro.de,Hetzner Online GmbH,HTTP Status 404
+06/01/06,Stamm,"Essen-Frintrop, St. Josef",-,,
+06/01/08,Stamm,"Essen-Schönebeck, St. Ant. Abbas",dpsg-abbas.de,Neue Medien Muennich GmbH,WordPress
+06/01/14,Stamm,"Essen-Frohnhausen, Dom Helder Camara",dhc-dpsg.de,Hostinger International Limited,SSLError
+06/01/22,Stamm,"Essen-Beding., St. Franziskus",dpsg-franziskus.de,Hetzner Online GmbH,WordPress
+06/01/27,Stamm,"Essen-Frohnhausen, St. Augustinus",-,,
+06/02/00,Bezirk,Bezirk Duisburg,dpsg-duisburg.de,Hetzner Online GmbH,ConnectTimeoutError
+06/02/01,Stamm,"Duisburg-Huckin.,Marc.Callo/St. Peter und Paul",dpsg-huckingen.de,netcup GmbH,HTTP Status 403
+06/02/05,Stamm,"Duisburg-Buchh., Jud. Th./K.Martin",dpsg-karl-martin.de,Mittwald CM Service GmbH und Co. KG,WordPress
+06/02/06,Stamm,"Duisburg-Großenbaum, St. Franziskus",dpsg-grossenbaum.de,Hetzner Online GmbH,WordPress
+06/02/08,Stamm,"Duisburg-Serm, Herz Jesu",-,,
+06/02/10,Stamm,"Duisburg-Buchholz, Hl. Geist",dpsg-heilig-geist.de,Hetzner Online GmbH,Unknown
+06/02/11,Stamm,"Duisburg-Hamborn, St. Peter Marxloh",dpsg-marxloh.de,Hetzner Online GmbH,Unknown
+06/02/12,Stamm,"Duisburg-Rahm, St. Hubertus",rahmerpfadfinder.de,Neue Medien Muennich GmbH,WordPress
+06/02/14,Stamm,"Duisburg, Abtei Hamborn",dpsg-abtei-hamborn.de,Neue Medien Muennich GmbH,GravCMS
+06/02/15,Stamm,"Duisburg-Buchholz, St. Nikolaus",dpsgsanktnikolaus.de,Strato GmbH,WordPress
+06/02/17,Stamm,"Duisburg-Fahrn, St. Georg",dpsg-stgeorg.de,netcup GmbH,GravCMS
+06/04/00,Bezirk,Bezirk Bottrop/Gladbeck,dpsg-botgla.de,One.com A/S,Unknown
+06/04/01,Stamm,"Gladbeck-Mitte, St. Johannes",-,,
+06/04/02,Stamm,"Gladbeck-Zweckel, Herz Jesu",dpsg-zweckel.de,Strato GmbH,Unknown
+06/04/03,Stamm,"Bottrop-Eigen, St. Pius / Philippo Neri",-,,
+06/04/04,Stamm,"Bottrop, St. Peter",dpsg-stpeter.de,Strato GmbH,Unknown
+06/04/06,Stamm,"Bottrop, Herz Jesu, St. Barbara",-,,
+06/04/10,Stamm,"Gladbeck-Rentfort, St. Josef",dpsg-rentfort.de,Strato GmbH,WordPress
+06/04/11,Stamm,"Bottrop, Impeesa",-,,
+06/04/12,Stamm,"Gladbeck-Ellinghorst, Elisabeth",-,,
+06/05/00,Bezirk,Bezirk Ennepe-Ruhr,bezirk-en.de,Strato GmbH,WordPress
+06/05/01,Stamm,"Gevelsberg, St. Engelbert",dpsg-gevelsberg.de,netcup GmbH,WordPress
+06/05/02,Stamm,"Schwelm, St. Marien",pfadfinden-schwelm.de,Neue Medien Muennich GmbH,WordPress
+06/05/03,Stamm,"Ennepetal, Herz Jesu",dpsg-herzjesu-ennepetal.de,"Cloudflare, Inc.",HTTP Status 403
+06/05/04,Stamm,"Witten-Buchholz, St. Antonius",dpsg-buchholz.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,HTTP Status 403
+06/05/05,Stamm,"Sprockhövel, St. Januarius",dpsg-stjanuarius.de,Strato GmbH,WordPress
+06/05/06,Stamm,"Sprockhövel-Hasslinghausen, Sankt Josef",sanktjosef.de,netcup GmbH,Unknown
+06/05/07,Stamm,"DPSG Bredenscheid, St.Mariä Empfängnis",dpsg-bredenscheid.de,Hetzner Online GmbH,WordPress
+06/05/08,Stamm,"Hattingen-Mitte, Peter und Paul",-,,
+06/05/09,Stamm,"Wetter-Volmarstein, St. Augustinus u. Monika",dpsg-volmarstein.de,Strato GmbH,WordPress
+06/05/10,Stamm,"Hattingen-Niederbonsfeld, Isenburg",stammisenburg.de,Strato GmbH,Unknown
+06/05/11,Stamm,"Hattingen - Winz-Baak, Heilig Geist",-,,
+06/05/13,Stamm,"Hattingen-Niederwenigern, ""Die Wennischen""",-,,
+06/05/14,Stamm,Janusz Korczak Wetter-Wengern e.V.,dpsg-wengern.de,dogado GmbH,WordPress
+06/06/00,Bezirk,Bezirk Gelsenkirchen,dpsg-gelsenkirchen.de,netcup GmbH,Unknown
+06/06/01,Stamm,"Gelsenkirchen-Horst, Albino Luciani",dpsg-albinoluciani.de,dogado GmbH,WordPress
+06/06/04,Stamm,"Gelsenkirchen-Feldmark, Kreuzritter",dpsg-kreuzritter.de,Strato GmbH,Unknown
+06/06/05,Stamm,"Gelsenkirchen-Schalke,Graf v.Galen",dpsg-kvg.de,netcup GmbH,Unknown
+06/06/06,Stamm,"Gelsenkirchen-Ückendorf, Thomas Morus",dpsg-thomas-morus.info,Strato GmbH,Unknown
+06/06/07,Stamm,Stamm Exodus,dpsg-exodus.de,Neue Medien Muennich GmbH,WordPress
+06/06/08,Stamm,Elisabeth von Thüringen,dpsg-evt.de,Strato GmbH,Unknown
+06/06/09,Stamm,"Gelsenkirchen, Rochus Spiecker",dpsg-rs.de,manitu GmbH,WordPress
+06/06/11,Stamm,"Gelsenkirchen-Buer, Don Bosco",donbosco-buer.de,Neue Medien Muennich GmbH,WordPress
+06/06/13,Stamm,Martin Luther King,dpsg-mlk.de,Strato GmbH,WordPress
+06/06/16,Stamm,"Gelsenkirchen, Herz Jesu, Angelo Giuseppe Roncalli",dpsg-roncalli.de,Strato GmbH,HTTP Status 400
+06/07/00,Bezirk,Bezirk Sauerland,dpsg-sauerland.de,OVH SAS,WordPress
+06/07/01,Stamm,"Halver-Schalksmühle, Don Bosco",pfadfinder-halver.de,"Cloudflare, Inc.",HTTP Status 403
+06/07/03,Stamm,"Neuenrade, Steve Biko",-,,
+06/07/04,Stamm,"Werdohl, St. Michael",dpsg-w.de,OVH SAS,PHPKIT WCMS - Web Content Managment System - mxbyte GbR copyright 2002-2009
+06/07/05,Stamm,"Lüdenscheid, St. Medardus",dpsg-luedenscheid.de,Hetzner Online GmbH,Unknown
+06/07/06,Stamm,"Plettenberg, Alavanyo",-,,
+06/07/07,Stamm,"Dahl/Rummenohl, Don Bosco",stammdonbosco.de,Neue Medien Muennich GmbH,WordPress
+06/08/00,Bezirk,Bezirk Bochum & Wattenscheid,dpsg-bowat.eu,Strato GmbH,WordPress
+06/08/01,Stamm,"Bochum-Altenbochum, Liebfrauen",dpsg-altenbochum.de,Strato GmbH,WordPress
+06/08/02,Stamm,"Bochum-Langendreer, Canchanabury",dpsg-canchanabury.de,"Fastly, Inc.",Jekyll
+06/08/03,Stamm,"Bochum, Meinolphus",dpsg-meinolphus.de,dogado GmbH,WordPress
+06/08/04,Stamm,"Bochum-Gerthe, St. Elisabeth",dpsg-gerthe.de,Neue Medien Muennich GmbH,WordPress
+06/08/06,Stamm,"Bochum, Maximilian Kolbe",pfadfinder-hoentrop.de,netcup GmbH,WordPress
+06/08/07,Stamm,"Bochum-Eppendorf, St. Theresia",pfadfinder-eppendorf.de,Strato GmbH,WordPress
+06/08/08,Stamm,St. Johannes Bochum-Wiemelhausen,pfadinet.de,dogado GmbH,WordPress
+06/08/10,Stamm,St. Johannes der Täufer Wattenscheid-Leithe,-,,
+06/08/11,Stamm,"Bochum-Harpen, A. Frank & M.-L. King",dpsg-bochum-harpen.de,IONOS SE,WordPress
+06/08/12,Stamm,"Bochum-Weitmar, Stamm Bärendorf",stamm-baerendorf.de,Hosting.de GmbH,Unknown
+06/08/13,Stamm,"Bochum-Hiltrop, Geschwister Scholl",-,,
+06/08/14,Stamm,"Bochum-Querenb, St. Augustinus",pfadfinder-querenburg.de,Strato GmbH,Unknown
+06/08/16,Stamm,"Bochum-Weitmar, Kardinal von Galen",dpsg-weitmar.de,Neue Medien Muennich GmbH,WordPress
+06/09/00,Bezirk,Bezirk Mülheim / Ruhr,-,,
+06/09/01,Stamm,"Mülheim/Ruhr, St. Joseph",dpsg-st-joseph.de,IONOS SE,HTTP Status 503
+06/09/02,Stamm,St. Mariae Rosenkranz,dpsg-rosenkranz.de,Strato GmbH,Joomla
+06/09/03,Stamm,"Mülheim a. d. R., St. Michael",dpsg-speldorf.de,Strato GmbH,Unknown
+06/09/04,Stamm,"Mülheim, St. Barbara",-,,
+06/09/05,Stamm,"Oberhausen, Sterkrade-Mitte, St. Clemens",-,,
+06/09/06,Stamm,"Oberhausen, U.L.F.",ulfer-scouts.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+06/09/08,Stamm,"Oberhausen, Heinrich Seuse",dpsg-osterfeld.de,-,NameResolutionError
+06/09/10,Stamm,"Oberhausen, St. Theresia",-,,
+06/10/00,Bezirk,Bezirk Essen Mitte-Nord-Ost,emno.de,Neue Medien Muennich GmbH,Unknown
+06/10/01,Stamm,"Essen-Stoppenberg, St. Nikolaus",dpsg-nikolaus.de,netcup GmbH,WordPress
+06/10/03,Stamm,"Essen-Steele-Freisenbruch, Sankt Altfrid",dpsg-altfrid.de,netcup GmbH,WordPress
+06/10/05,Stamm,"Essen-Huttrop und Kray/Leithe, St. Bonifatius & Barbarossa",dpsg-boba.de,IONOS SE,WordPress
+06/10/07,Stamm,"Essen-Schonnebeck, St. Elisabeth",dpsg-elisabeth.de,IONOS SE,WordPress
+06/11/00,Bezirk,Bezirk Essen-Süd,dpsg-essen-sued.de,Strato GmbH,Unknown
+06/11/01,Stamm,"Essen-Relling., St. Lambertus",dpsg-essen-rellinghausen.de,IONOS SE,MyWebsite NOW
+06/11/02,Stamm,"Essen-Horst, St. Joseph, Philipp Neri",-,,
+06/11/03,Stamm,"Essen-Burgaltendorf, Vereinigte Ruhrhalbinsel",dpsg-burgaltendorf.de,manitu GmbH,Unknown
+06/11/05,Stamm,"Essen-Stadtwald, St. Theresia, Sachsen",stamm-sachsen.de,Mittwald CM Service GmbH und Co. KG,WordPress
+06/11/06,Stamm,"Essen-Überr., Ch. de Foucauld",stammcdf.de,"Automattic, Inc",WordPress
+06/11/07,Stamm,"Essen-Heisingen, St. Georg",dpsg-heisingen.de,netcup GmbH,WordPress
+06/11/08,Stamm,"Essen-Haarzopf, Tommes Rusticus",tommes-rusticus.de,netcup GmbH,Unknown
+07/00/00,Diözese,Diözesanverband Freiburg,dpsg-freiburg.de,Neue Medien Muennich GmbH,WordPress
+07/01/00,Bezirk,Bezirk Mannheim-Bergstraße,dpsg-mannheim-bergstrasse.de,Vautron Rechenzentrum AG,HTTP Status 500
+07/01/01,Stamm,"Mannheim, St. Bernhard",dpsgstbernhard.de,Google LLC,Unknown
+07/01/02,Stamm,"Hemsbach, Johanniter",dpsghemsbach.de,Hetzner Online GmbH,HTTP Status 403
+07/01/03,Stamm,"Laudenbach, Cherusker",pfadfinder-laudenbach.de,dogado GmbH,Unknown
+07/01/04,Stamm,"Mannheim-Neckarau, Thomas Morus",pfadis-neckarau.de,uvensys GmbH,WordPress
+07/01/05,Stamm,"Weinheim-Sulzbach, Guy de Larigaudie",dpsg-sulzbach.de,IONOS SE,Unknown
+07/01/06,Stamm,"Mannheim-Friedrichsfeld, St. Bonifatius",pfadfinder-friedrichsfeld.de,Neue Medien Muennich GmbH,WordPress
+07/01/07,Stamm,"Mannheim-Waldhof, St. Lioba",dpsgstlioba.com,Wix.com Ltd.,Wix.com Website Builder
+07/01/08,Stamm,"Hirschberg-Leutershausen, St. Johannes",dpsg-leutershausen.de,UD Media GmbH,WordPress
+07/02/00,Bezirk,Bezirk Karlsruhe,dpsg-ka.de,Hetzner Online GmbH,WordPress
+07/02/01,Stamm,"Gaggenau-Bad Rotenfels, Laurentius",dpsg-laurentius.de,Hetzner Online GmbH,WordPress
+07/02/03,Stamm,"Kuppenheim, St. Sebastian",pfadfinder-kuppenheim.de,Strato GmbH,WordPress
+07/02/04,Stamm,"Baden-Baden, Hohenbaden",dpsg-hohenbaden.de,comtrance service GmbH,WordPress
+07/02/05,Stamm,"Karlsruhe, von Galen",dpsg-konrad.de,Strato GmbH,WordPress
+07/02/06,Stamm,"Karlsruhe-Neureut, Antoine de Saint Exupery",pfadfinder-neureut.de,-,NameResolutionError
+07/02/10,Stamm,"Karlsruhe-Daxlanden, Guy de Larigaudie",pfadfinder-daxlanden.de,IONOS SE,WordPress
+07/03/00,Bezirk,Bezirk Ortenau-Kinzigtal,-,,
+07/03/03,Stamm,"Offenburg, Konradin",stamm-konradin.de,Strato GmbH,WordPress
+07/03/04,Stamm,"Urloffen, St. Martin",dpsg-urloffen.de,punkt.de GmbH,Unknown
+07/03/06,Stamm,"Bühl, St. Peter und Paul",-,,
+07/03/09,Stamm,"Offenburg, Albert Schweitzer",-,,
+07/03/11,Stamm,"Willstätt, Merlin",stamm-merlin.de,IONOS SE,Zeta Producer
+07/03/12,Stamm,"Sasbachwalden, Lupus",-,,
+07/03/13,Stamm,Rheinmünster,dpsg-rheinmuenster.de,IONOS SE,WordPress
+07/05/00,Bezirk,Bezirk Wiesental-Hochrhein,-,,
+07/05/01,Stamm,"Wehr, St. Bernhard",dpsg-wehr.de,netcup GmbH,Unknown
+07/05/03,Stamm,"Lörrach-Stetten, St. Fridolin",dpsg-stetten.de,Strato GmbH,WordPress
+07/05/04,Stamm,"Weil am Rhein, St. Sebastian",dpsg-weil.de,IONOS SE,IONOS MyWebsite
+07/05/06,Stamm,"Lörrach-Brombach, St. Josef",dpsg-brombach.de,Deutsche Telekom AG,Joomla
+07/05/08,Stamm,"Dogern, St. Clemens",dpsgdogern.de,Wix.com Ltd.,Wix.com Website Builder
+07/05/09,Stamm,"Kandern, Sankt Katharina",-,,
+07/05/12,Stamm,St. Michael Grenzach-Wyhlen,-,,
+07/06/00,Bezirk,Bezirk Hohenzollern,dpsg-hohenzollern.de,EVANZO e-commerce GmbH,WordPress
+07/06/01,Stamm,"Sigmaringen, St. Fidelis",dpsg-sigmaringen.de,Neue Medien Muennich GmbH,WordPress
+07/06/02,Stamm,"Rosenfeld-H-Zimmern, Adenauer",-,,
+07/06/03,Stamm,"Hechingen, St. Martin",dpsg-hechingen.de,Strato GmbH,WordPress
+07/06/04,Stamm,"Fischingen, Dom H. Camara",-,,
+07/06/05,Stamm,"Bingen, Martin-Luther-King",dpsg-bingen.de,Strato GmbH,WordPress
+07/06/06,Stamm,Melchingen,dpsg-melchingen.de,IONOS SE,WordPress
+07/06/07,Stamm,"Pfullendorf, St. Jakobus",dpsg-pfullendorf.de,Neue Medien Muennich GmbH,WordPress
+07/06/08,Stamm,"Haigerloch, Leonardo da Vinci",pfadis-haigerloch.de,ScaleUp Technologies GmbH & Co. KG,Unknown
+07/06/09,Stamm,"Ostrachtal, Rainbow",-,,
+07/06/10,Stamm,DPSG Salmendingen,dpsg-salmendingen.de,EVANZO e-commerce GmbH,Unknown
+07/07/00,Bezirk,Bezirk Bodensee,dpsg-bodensee.de,Hetzner Online GmbH,Unknown
+07/07/01,Stamm,"Singen, St. Pankratius",dpsg-singen.de,SpaceNet AG,WordPress
+07/07/02,Stamm,"Überlingen, Paul VI.",dpsg-ueberlingen.de,Strato GmbH,Unknown
+07/07/03,Stamm,"Mühlhausen-Ehingen, Peter und Paul",-,,
+07/07/08,Stamm,"Steißlingen, St. Remigius",dpsg-steisslingen.de,"Cloudflare, Inc.",HTTP Status 403
+07/07/09,Stamm,"Radolfzell, Impeesa",dpsg-radolfzell.de,Hetzner Online GmbH,Unknown
+07/07/10,Stamm,"Daisendorf, St. Martin",dpsg-daisendorf.de,-,NameResolutionError
+07/07/12,Stamm,"Hilzingen, Alfred Delp",dpsg-hilzingen.de,IONOS SE,Unknown
+07/07/13,Stamm,"Konstanz, Bruder Klaus",pfadfinder-konstanz.de,uvensys GmbH,Hugo
+07/07/14,Stamm,"Markdorf, St. Nikolaus",dpsg-markdorf.de,Strato GmbH,Zeta Producer
+07/08/00,Bezirk,Bezirk Baar,-,,
+07/08/01,Stamm,"Bad Dürrheim, Johanniter",dpsg-bad-duerrheim.de,IONOS SE,Unknown
+07/08/02,Stamm,"Villingen, Ulrich v. Augs.",dpsg-villingen.de,Hetzner Online GmbH,WordPress
+07/08/04,Stamm,"Villingen-Schwenningen; Der Wolf, der nie schläft",-,,
+07/08/05,Stamm,"Hattingen/Baden., Maximilian Kolbe",-,,
+07/09/00,Bezirk,Bezirk Kurpfalz,dpsg-kurpfalz.de,netcup GmbH,WordPress
+07/09/01,Stamm,"Sinsheim-Rohrbach/Reihen, Dom Helder Camara",dpsg-rohrbach.de,IONOS SE,WordPress
+07/09/02,Stamm,"Nussloch, St. Laurentius",dpsg-nussloch.de,IONOS SE,WordPress
+07/09/03,Stamm,"Plankstadt, St. Nikolaus",dpsg-plankstadt.de,Hetzner Online GmbH,Joomla
+07/09/04,Stamm,"Sandhausen, Dreifaltigkeit",dpsg-sandhausen.de,IONOS SE,Unknown
+07/09/05,Stamm,"Heidelberg-Kirchheim, St. Peter",dpsg-heidelberg-kirchheim.de,dogado GmbH,WordPress
+07/09/06,Stamm,"Heidelberg-Wiebl., St. Bartholom.",-,,
+07/09/07,Stamm,"Neckarsteinach, St. Stephan",dpsg-neckarsteinach.de,"Cloudflare, Inc.",HTTP Status 403
+07/09/08,Stamm,"Heidelberg, St. Bonifatius",dpsg-bonifatius.de,Hetzner Online GmbH,WordPress
+07/09/09,Stamm,"Ketsch, Don Bosco",dpsg-ketsch.de,netcup GmbH,Unknown
+07/09/11,Stamm,"Angelbachtal, Mahatma Gandhi",pfadfinder-angelbachtal.de,IONOS SE,HTTP Status 400
+07/09/12,Stamm,"Bammental, Karl Leisner",pfadfinder-bammental.de,Mittwald CM Service GmbH und Co. KG,WordPress
+07/09/13,Stamm,Stamm Sr. Felicitas Heidelberg-Ziegelhausen,pfadfinder-ziegelhausen.de,Strato GmbH,WordPress
+07/10/00,Bezirk,Bezirk Bruchsal,dpsg-bezirk-bruchsal.de,IONOS SE,WordPress
+07/10/01,Siedlung,Walzbachtal,dpsg-wpt.de,Hetzner Online GmbH,Hugo
+07/10/02,Stamm,"Oberhausen, Hohe Flamme",hohe-flamme.de,IONOS SE,Unknown
+07/10/03,Stamm,Bad Schönborn-Langenbrücken,dpsg-langenbruecken.de,IONOS SE,HTTP Status 401
+07/10/04,Stamm,"Stutensee, Pater Kolbe",pfadfinder-blankenloch.de,netcup GmbH,HTTP Status 404
+07/10/05,Stamm,"Waghäusel-Wiesental, St. Jodokus",pfadfinder-wiesental.de,Strato GmbH,WordPress
+07/10/06,Stamm,DPSG Stamm Rheinsheim,-,,
+07/10/07,Stamm,"Bretten, Askola",dpsgbretten.de,Neue Medien Muennich GmbH,HTTP Status 404
+07/10/08,Stamm,"Bruchsal, St. Christophorus",dpsg-bruchsal.de,netcup GmbH,WordPress
+07/11/00,Bezirk,Bezirk Pforzheim,dpsg-pforzheim.de,manitu GmbH,WordPress
+07/11/02,Stamm,"Pforzheim, Arnulf",-,,
+07/11/04,Siedlung,"Remchingen, Eisingen",-,,
+07/11/05,Stamm,"Pforzheim, St. Franziskus",-,,
+07/13/00,Bezirk,Bezirk Odenwald-Tauber,dpsg-odenwald-tauber.de,Neue Medien Muennich GmbH,Unknown
+07/13/02,Stamm,"Mosbach, Bernhard von Baden",dpsg-mosbach.de,Strato GmbH,Unknown
+07/13/03,Stamm,"Don Bosco, Neckarelz-Diedesheim",dpsg-neckarelz-diedesheim.de,Neue Medien Muennich GmbH,WordPress
+07/13/05,Stamm,"Adelsheim, Stephanus",-,,
+07/13/06,Stamm,"Haßmersheim, St. Benedikt",dpsg-hassmersheim.de,IONOS SE,IONOS MyWebsite
+07/13/08,Stamm,"Mosbach-Waldstadt, Maximilian Kolbe",dpsg-mosbach-waldstadt.de,Neue Medien Muennich GmbH,WordPress
+07/14/00,Bezirk,Bezirk Emmendingen,bezirk-emmendingen.de,Neue Medien Muennich GmbH,Unknown
+07/14/01,Stamm,"Emmendingen, Markgraf Bernhard von Baden",dpsg-em1.de,rh-tec Business GmbH,HTTP Status 404
+07/14/02,Stamm,"Waldkirch, Konrad von Schwarzenberg",dpsg-waldkirch.de,dogado GmbH,WordPress
+07/14/03,Stamm,"Gutach, St. Michael",-,,
+07/14/04,Stamm,"Emmendingen, Petter Moen",-,,
+07/14/05,Stamm,"Endingen, St. Franziskus",pfadfinder-endingen.org,Hetzner Online GmbH,WordPress
+07/14/06,Stamm,Glottertal,-,,
+07/15/00,Bezirk,Bezirk Breisgau,bezirk-breisgau.de,webgo GmbH,WordPress
+07/15/01,Stamm,"Freiburg-Littenweiler, Berthold II. von Zähringen",pfadfinder-littenweiler.de,Strato GmbH,WordPress
+07/15/02,Stamm,"Freiburg, Tilly",dpsg-tilly.de,webgo GmbH,WordPress
+07/15/03,Stamm,"Gundelfingen, Rochus Spiecker",dpsg-gundelfingen.de,webhoster.de AG,WordPress
+07/15/06,Stamm,"Freiburg-Mitte, Guy de Larigaudie",pfadfinder-freiburg.de,webgo GmbH,WordPress
+07/15/07,Stamm,"Freiburg-Weing., Albino Luciani",albino-luciani.de,Domeneshop AS,WordPress
+07/15/08,Stamm,"Kirchzarten, St. Exupery",pfadfinder-kirchzarten.de,Hetzner Online GmbH,WordPress
+07/15/09,Stamm,"Freiburg-Opfingen, St. Nikolaus",pfadfinder-opfingen.de,"Fastly, Inc.",Unknown
+07/15/13,Stamm,"Freiburg, St. Albert",pfadfinder-stalbert.de,Contabo GmbH,WordPress
+07/15/14,Stamm,"Breisach, Graf Bernadotte",dpsg-breisach.de,Mittwald CM Service GmbH und Co. KG,Joomla
+07/15/15,Stamm,"Bad Krozingen, David",badkrozingenpfadfinder.de,Hetzner Online GmbH,WordPress
+07/15/16,Stamm,"Staufen, St. Martin",staufen-pfadfinder.de,dogado GmbH,Joomla
+07/15/18,Stamm,"Freiburg-Vauban, Kassiopeia",pfadfinder-vauban.de,netcup GmbH,WordPress
+07/15/19,Stamm,"Freiburg-St. Georgen, Betty Clay",-,,
+07/15/20,Stamm,"Fridtjof Nansen, Titisee-Neustadt",pfadfinder-titisee-neustadt.de,Hostinger International Limited,WordPress
+08/00/00,Diözese,Diözesanverband Fulda,dpsg-fulda.de,Neue Medien Muennich GmbH,WordPress
+08/11/02,Stamm,"Kassel-Vellmar, Folke Bernadotte",dpsg-vellmar.de,netcup GmbH,Unknown
+08/11/03,Stamm,"Hünfeld, St. Jakobus",dpsg-huenfeld.de,SpaceNet AG,WordPress
+08/11/04,Stamm,"Marburg, St. Michael",dpsg-marburg.de,Strato GmbH,Unknown
+08/11/05,Stamm,"Witzenhausen, Witta",dpsg-witzenhausen.de,Neue Medien Muennich GmbH,WordPress
+08/11/06,Stamm,"Fulda-Neuenberg, St. Andreas",dpsg-neuenberg.de,Neue Medien Muennich GmbH,WordPress
+08/11/09,Stamm,"Melsungen, Mariä Himmelfahrt",-,,
+08/11/14,Stamm,"Fulda-Johannesberg, Mirjam",-,,
+08/11/19,Siedlung,Kaufungen,dpsg-kaufungen.de,SpaceNet AG,WordPress
+08/14/01,Stamm,"Bad Orb, St. Martin",pfadfinder-bad-orb.de,Neue Medien Muennich GmbH,WordPress
+08/14/03,Stamm,"Bad Soden-Salmünster-Ahl, Hl. Kreuz",-,,
+08/14/04,Stamm,Stamm Shalom Bruchköbel,dpsg-shalom.de,ZAP-Hosting GmbH,WordPress
+08/14/06,Stamm,"Maintal, Südwind",dpsg-suedwind.de,Strato GmbH,Unknown
+08/14/07,Stamm,"Grossauheim, St. Paul",pfadfinder-grossauheim.de,manitu GmbH,WordPress
+08/14/08,Stamm,"Nidderau-Windecken, Wartbaum",wartbaum.de,IONOS SE,WordPress
+08/14/09,Stamm,"Rodenbach, Barbarossa",dpsg-rodenbach.de,Hetzner Online GmbH,WordPress
+08/14/10,Stamm,"Wächtersbach, St. Bonifatius",stamm-bonifatius.de,IONOS SE,WordPress
+08/14/12,Stamm,"Biebergemünd-Wirtheim, St. Jakobus",pfadfinder-wirtheim.de,webhoster.de AG,WordPress
+08/14/13,Stamm,Niederdorfelden,dpsg-niederdorfelden.de,One.com A/S,WordPress
+09/00/00,Diözese,Diözesanverband Hildesheim,dpsg-hildesheim.de,Hetzner Online GmbH,WordPress
+09/01/00,Bezirk,Bezirk Ludwig,-,,
+09/01/01,Stamm,"Harsum, St. Caecilia",-,,
+09/01/02,Stamm,"Elze, St. Petrus",-,,
+09/01/04,Stamm,"Hildesheim-Drispenst., Impeesa",-,,
+09/01/05,Stamm,"Diekholzen, St. Jakobus",dpsg-diekholzen.de,IONOS SE,WordPress
+09/01/06,Stamm,"Peine, Giovanni Don Bosco",dpsg-peine.org,dogado GmbH,WordPress
+09/01/09,Stamm,"Emmerke, St. Martinus",-,,
+09/02/00,Bezirk,Bezirk Harz,-,,
+09/02/01,Stamm,"Duderstadt, St. Cyriakus",dpsg-duderstadt.de,dogado GmbH,Unknown
+09/02/04,Stamm,"Seesen-Harz, Maria Königin",-,,
+09/02/05,Stamm,"Herzberg, Sankt Josef",dpsg-herzberg.com,manitu GmbH,Joomla
+09/02/06,Stamm,Göttingen,dpsg-goettingen.de,Strato GmbH,Joomla
+09/02/07,Stamm,"Northeim, St. Marien",dpsg-nom.de,Hetzner Online GmbH,Joomla
+09/02/08,Stamm,"Gieboldehausen, St. Laurentius",dpsg-gieboldehausen.de,Hetzner Online GmbH,WordPress
+09/03/00,Bezirk,Bezirk Elm,-,,
+09/03/02,Stamm,"Celle, St. Ludwig",dpsg-celle.org,-,NameResolutionError
+09/03/04,Stamm,"Helmstedt, St. Ludgeri",dpsg-helmstedt.de,dogado GmbH,WordPress
+09/03/09,Stamm,"Wendeburg-Vechelde, Pastor Theo Derks",-,,
+09/03/10,Stamm,"Braunschweig, Martin Luther King",mlk-bs.de,dogado GmbH,WordPress
+09/03/11,Stamm,"Gifhorn, Fred Joseph",dpsg-gifhorn.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,Unknown
+09/03/13,Stamm,"Veltheim, Hl. Kreuz",dpsg-veltheim.de,Strato GmbH,WordPress
+09/03/15,Stamm,"Braunschweig, St. Martin",-,,
+09.04.2000,Bezirk,Bezirk Nord,-,,
+09/04/05,Stamm,"Seevetal-Hittfeld, Thomas Morus",dpsg-seevetal.de,Neue Medien Muennich GmbH,WordPress
+09/04/15,Stamm,"Bremen, Nordlicht",dpsg-bremen.de,Strato GmbH,Webocton - Scriptly (www.scriptly.de)
+09/04/16,Stamm,"Buchholz, St. Petrus, Hallimasch",dpsg-hallimasch.de,dogado GmbH,WordPress
+09/04/18,Stamm,"Lilienthal bei Bremen, Franziskus",dpsg-lilienthal.de,Strato GmbH,Unknown
+09/04/19,Siedlung,"St. Paulus, Oyten",-,,
+09/04/20,Siedlung,Lüneburg,dpsg-lueneburg.de,EVANZO e-commerce GmbH,WordPress
+09/05/00,Bezirk,Bezirk Hannover,-,,
+09/05/03,Stamm,"Hameln, St. Franziskus",dpsg-hameln.de,Host Europe GmbH,WordPress
+09/05/05,Stamm,"Wunstorf, St. Bonifatius",dpsg-wunstorf.de,Strato GmbH,WordPress
+09/05/07,Stamm,"Wedemark, Arche Noah",dpsg-wedemark.de,Strato GmbH,WordPress
+09/05/08,Stamm,"Neustadt, St. Peter & Paul",dpsg-neustadt.de,IONOS SE,Contao Open Source CMS
+09/05/10,Stamm,"Hannover-Kirchrode, Hl. Engel",dpsg-hannover.de,Neue Medien Muennich GmbH,WordPress
+09/05/11,Stamm,"Lehrte, Maximilian Kolbe",dpsg-lehrte.de,Host Europe GmbH,Unknown
+09/05/15,Stamm,"Hannover-Mühlenberg, St. Maximilian Kolbe",pfadfinder-muehlenberg.de,netcup GmbH,WordPress
+10/00/00,Diözese,Diözesanverband Köln,dpsg-koeln.de,Microsoft Corporation,October
+10/01/00,Bezirk,Bezirk Bergisch Land,dpsgbergischland.de,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,Unknown
+10/01/01,Stamm,"Solingen-Ohligs, von Berg",stamm-von-berg.de,Hetzner Online GmbH,WordPress
+10/01/02,Stamm,"Wuppertal, Gallier",stamm-gallier.de,IONOS SE,Unknown
+10/01/03,Stamm,"Solingen-Weeg,Sugambrer",pfadfinder-weeg.de,IONOS SE,WordPress
+10/01/04,Stamm,"Solingen, Gravenrode",-,,
+10/01/05,Stamm,"Solingen-Wald, Silva",stamm-silva.de,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,Unknown
+10/01/06,Stamm,Remscheid-Lennep,dpsg-lennep.de,Host Europe GmbH,Unknown
+10/01/08,Stamm,"Solingen-Löhdorf, Tenkterer",stamm-tenkterer.de,Host Europe GmbH,Unknown
+10/01/09,Stamm,"Solingen-Mangenberg, Gandalf",stammgandalf.de,IONOS SE,October
+10/03/00,Bezirk,Bezirk Düsseldorf,dpsg-duesseldorf.de,teuto.net Netzdienste GmbH,WordPress
+10/03/01,Stamm,"Langenfeld, Castanea",stamm-castanea.de,Host Europe GmbH,HTTP Status 500
+10/03/02,Stamm,"Hochdahl, Franz v. Assisi",dpsg-hochdahl.de,Hetzner Online GmbH,WordPress
+10/03/03,Stamm,"Düsseldorf, Lörick",stammloerick.de,IONOS SE,Unknown
+10/03/04,Stamm,"Düsseldorf-Gerresheim, Gerrich Margar",gerrich.de,One.com A/S,Joomla
+10/03/06,Stamm,Düsseldorf-Vennhausen,dpsg-vennhausen.de,dogado GmbH,Unknown
+10/03/07,Stamm,"Langenfeld-Richr., St. Martin",-,,
+10/03/08,Stamm,"Düsseldorf-Bilk, Hohenstaufen",dpsg-hohenstaufen-bilk.de,Strato GmbH,WordPress
+10/03/12,Stamm,"Düsseldorf-Unterrath, St. Bruno",brunopfadis.de,Strato GmbH,WordPress
+10/03/16,Stamm,"Düsseldorf-Bilk, Winfried",stamm-winfried.de,Hetzner Online GmbH,WordPress
+10/03/19,Stamm,Erkrath,dpsg-erkrath.de,Strato GmbH,WordPress
+10/04/00,Bezirk,Bezirk Erft,dpsg-erft.de,Contabo GmbH,WordPress
+10/04/01,Stamm,"Horrem, von Merode",dpsghorrem.de,Neue Medien Muennich GmbH,Unknown
+10/04/02,Stamm,"Pulheim, Sankt Barbara",dpsg-pulheim.de,Strato GmbH,WordPress
+10/04/04,Stamm,"Brühl, Kurfürst",stamm-kurfuerst.de,dogado GmbH,WordPress
+10/04/05,Stamm,Reuschenberg Elsdorf,dpsg-elsdorf.de,Strato GmbH,WordPress
+10/04/06,Stamm,"Königsdorf, Hildebold",dpsg-koenigsdorf.de,Wix.com Ltd.,Wix.com Website Builder
+10/04/07,Stamm,"Pulheim-Brauweiler, Bernhard von Clairvaux",dpsg-brauweiler.de,WIIT AG,ConnectTimeoutError
+10/04/08,Stamm,"Neubottenbroich, Glückauf",neubottenbroich.de,Host Europe GmbH,HTTP Status 503
+10/04/10,Stamm,"Sinnersdorf, Maximilian Kolbe",dpsg-sinnersdorf.de,IONOS SE,IONOS MyWebsite
+10/04/12,Stamm,"Kerpen-Mödrath, St. Quirinus",dpsg-moedrath.de,Strato GmbH,WordPress
+10/04/13,Stamm,"Erftstadt-Liblar, St. Barbara, Las Casas",dpsg-liblar.de,"Squarespace, Inc.",Unknown
+10/04/16,Stamm,Eisvögel,dpsg-kaster.de,Strato GmbH,WordPress
+10/05/00,Bezirk,Bezirk Köln Linksrheinisch,dpsg-bezirk-koeln.de,Neue Medien Muennich GmbH,WordPress
+10/05/01,Stamm,Rochus Spiecker Brühl - Schwadorf,rochus-spiecker.de,uvensys GmbH,WordPress
+10/05/03,Stamm,"Köln-Worringen, Gilwell",stamm-gilwell.de,IONOS SE,WordPress
+10/05/04,Stamm,"Köln-Sülz, Edith Stein",pfadfinder-suelz.de,webgo GmbH,WordPress
+10/05/06,Stamm,"Köln-Kriel, Helder Camara",helder-camara.de,netcup GmbH,WordPress
+10/05/08,Stamm,"Stamm St. Walburga, Bornheim-Walberberg",dpsg-walberberg.de,Strato GmbH,WordPress
+10/05/09,Stamm,"Köln-Blumenberg, St. Katharina von Siena",-,,
+10/05/10,Stamm,"Bornheim-Hersel+Widdig, St. Franziskus",-,,
+10/05/11,Stamm,DPSG Stamm Rumenthorp,pfadfinder-rondorf.com,Wix.com Ltd.,Wix.com Website Builder
+10/05/12,Stamm,"Köln-Ehrenfeld, Helios",pfadfinder-ehrenfeld.de,Strato GmbH,WordPress
+10/05/13,Stamm,Philipp Neri,dpsg-philippneri.de,Neue Medien Muennich GmbH,WordPress
+10/05/18,Stamm,"Köln-Heimersdorf, St. Markus",stamm-st-markus.de,Strato GmbH,WordPress
+10/05/19,Stamm,"Köln-Junkersdorf / Müngersdorf, St.Pankr.",pfadfinder-junkersdorf.de,IONOS SE,WordPress
+10/06/00,Bezirk,Bezirk Rhein - Erft,-,,
+10/06/02,Stamm,"Neuss, Malteser",-,,
+10/06/03,Stamm,"Dormagen-Delrath, Greifen",stamm-greifen.de,netcup GmbH,WordPress
+10/06/04,Stamm,"Grevenbroich-Gustorf, Deutschritter",dpsg-gustorf.de,Neue Medien Muennich GmbH,HTTP Status 423
+10/06/05,Siedlung,Rommerskirchen,pfadfinder-rommerskirchen.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+10/06/06,Stamm,"Grevenbroich, St. Josef",dpsg-grevenbroich.de,Hetzner Online GmbH,WordPress
+10/06/09,Stamm,"Neuss-Weckhoven, Alfred Delp",dpsg-neuss.de,PlusServer GmbH,WordPress
+10/06/11,Siedlung,Phönix Neuss-Süd,phoenix-dpsg-neuss.de,InterNetX GmbH,Unknown
+10/07/00,Bezirk,Bezirk Niederberg,dpsg-niederberg.de,Strato GmbH,WordPress
+10/07/01,Stamm,"Ratingen - West, Kizito",dpsg-kizito.de,Neue Medien Muennich GmbH,WordPress
+10/07/02,Stamm,"Velbert-Neviges, Hardenberg",dpsg-hardenberg.org,netcup GmbH,WordPress
+10/07/03,Stamm,Heiligenhaus,pfadfinder-heiligenhaus.de,Keyweb AG,WordPress
+10/07/04,Stamm,Mettmann,dpsg-mettmann.de,IONOS SE,WordPress
+10/07/05,Stamm,"Wülfrath, Franken",dpsg-wuelfrath.de,Strato GmbH,WordPress
+10/07/06,Stamm,Lintorf,dpsg-lintorf.de,webgo GmbH,HTTP Status 400
+10/07/07,Stamm,"Velbert, Johannes Bosco",stamm-johannes-bosco.de,Mittwald CM Service GmbH und Co. KG,WordPress
+10/07/10,Stamm,"Essen-Kettwig, Kattwiga",dpsg-kattwiga.de,Vodafone GmbH,WordPress
+10/09/00,Bezirk,Bezirk Sieg,dpsg-sieg.de,Neue Medien Muennich GmbH,WordPress
+10/09/01,Stamm,"Siegburg, St. Anno",dpsg-st-anno.de,Strato GmbH,WordPress
+10/09/02,Stamm,"Siegburg - Kaldauen, eXodus",dpsg-kaldauen.de,dogado GmbH,WordPress
+10/09/05,Stamm,"Lohmar, St. Johannes",dpsg-lohmar.de,Contabo GmbH,HTTP Status 500
+10/09/06,Stamm,"Niederkassel, Roncalli",stamm-roncalli.de,IONOS SE,Unknown
+10/09/12,Stamm,St. Augustin-Menden,-,,
+10/09/20,Stamm,"Lohmar, Ichtys-Neuhonrath",dpsgneuhonrath.de,IONOS SE,WordPress
+10/09/21,Stamm,"Gummersbach, St. Felizitas",dpsg-gummersbach.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,HTTP Status 500
+10/10/00,Bezirk,Bezirk Voreifel,-,,
+10/10/01,Stamm,"Euskirchen, Kreuzritter",dpsg-eu.eu,Strato GmbH,WordPress
+10/10/03,Stamm,"Rheinbach, Antoine de Saint-Exupery",kallenturm.de,Wobcom GmbH,Unknown
+10/10/04,Stamm,"Meckenheim, Swabidua",swabidua.de,netcup GmbH,Unknown
+10/10/05,Stamm,"Euskirchen-Euenheim, 'Carpe diem'",pfadfinder-euenheim.de,One.com A/S,Unknown
+10/10/07,Stamm,"Zülpich, St. Quirinus",-,,
+10/10/08,Stamm,"Euskirchen-Stotzheim, St. Hubertus",dpsg-stotzheim.de,-,NameResolutionError
+10/12/00,Bezirk,Bezirk Bonn,dpsg-bonn.de,Mittwald CM Service GmbH und Co. KG,WordPress
+10/12/01,Stamm,"Bonn-Hardtberg, St.Rochus",duisdorf.dpsg-bonn.de,Mittwald CM Service GmbH und Co. KG,WordPress
+10/12/02,Stamm,"Bonn-Bad Godesb., Graf Galen",dpsg-badgodesberg.de,UD Media GmbH,Unknown
+10/12/03,Stamm,"Bonn-Stadtmitte, Phönix",-,,
+10/12/04,Stamm,"Bonn-Beuel, Sugambrer",stamm-sugambrer.de,Mittwald CM Service GmbH und Co. KG,TYPO3
+10/13/00,Bezirk,Bezirk Siebengebirge,dpsg-siebengebirge.de,Mittwald CM Service GmbH und Co. KG,WordPress
+10/13/01,Stamm,"Königswinter, Heisterbacherrott",-,,
+10/13/02,Stamm,Sugambrer Hennef-Warth,sugambrer.de,Strato GmbH,WordPress
+10/13/03,Stamm,"Königswinter-Ittenbach, Idubag",dpsg-ittenbach.de,Neue Medien Muennich GmbH,WordPress
+10/13/04,Stamm,Ruppichterroth,-,,
+10/13/05,Stamm,Winterscheid,dpsg-winterscheid.de,Mittwald CM Service GmbH und Co. KG,WordPress
+10/13/06,Stamm,"Stamm Isenburg, Schürdt-Oberlahr",dpsg-isenburg.de,Strato GmbH,Unknown
+10/13/07,Stamm,"Rheinbreitbach, Terra Nova",-,,
+10/13/08,Stamm,"Königswinter-Stieldorf, Romero",stamm-romero.de,Strato GmbH,Unknown
+10/13/09,Stamm,Königswinter-Oberpleis,dpsgoberpleis.de,dogado GmbH,WordPress
+10/13/10,Stamm,"Neunk.-Seelscheid, Edelweiss",pfadfinder-seelscheid.de,"Cloudflare, Inc.",HTTP Status 403
+10/13/13,Stamm,"Eitorf, Shamrock",dpsg-eitorf.de,Strato GmbH,WordPress
+10/13/15,Stamm,"Waldbröl, St. Georg",dpsg-waldbroel.de,IONOS SE,IONOS MyWebsite
+10/14/00,Bezirk,Rhein Berg,dpsg-rhein-berg.de,Strato GmbH,Unknown
+10/14/01,Stamm,"Köln-Rath/Heumar, Johannes Bosco",dpsg-rath-heumar.de,EVANZO e-commerce GmbH,WordPress
+10/14/02,Stamm,Köln-Porz,dpsg-impeesa-porz.de,Mittwald CM Service GmbH und Co. KG,WordPress
+10/14/03,Stamm,"Köln-Kalk, Hohenstaufen",dpsg-koeln-kalk.de,Strato GmbH,Unknown
+10/14/04,Stamm,"Köln-Brück, Ostgoten",dpsg-koeln-brueck.de,IONOS SE,WordPress
+10/14/05,Stamm,"Köln-Neubrück, St. Adelheid",dpsg-neubrueck.de,Strato GmbH,WordPress
+10/14/06,Stamm,"Köln-Stammheim, Gilwell",stammgilwell.de,Strato GmbH,WordPress
+10/14/07,Stamm,"Köln-Ensen, St. Laurentius",pfadfinder-ensen.de,Hetzner Online GmbH,DokuWiki
+10/14/08,Stamm,"Bensberg, Ommerborn",dpsgbensberg.de,Hetzner Online GmbH,WordPress
+10/14/09,Stamm,"Bergisch Gladbach-Refr., Widukind",dpsg-refrath.de,Strato GmbH,WordPress
+10/14/10,Stamm,"Leverkusen-Steinbüchel, Woodstock",stamm-woodstock.de,Strato GmbH,WordPress
+10/14/11,Stamm,"Leverkusen-Schlebusch, Gezelin",stamm-gezelin.de,Strato GmbH,WordPress
+10/14/12,Stamm,"Höhenberg-Vingst, Elisodor",-,,
+10/14/13,Stamm,"Leichlingen, Wippera, St. Johannes Baptist",wippera.org,Strato GmbH,WordPress
+10/14/14,Stamm,Wipperfürth,dpsg-wipperfuerth.de,IONOS SE,Joomla
+10/14/15,Siedlung,Pfadfinden in Rösrath,pfadfinden-in-roesrath.de,"Cloudflare, Inc.",HTTP Status 403
+11/00/00,Diözese,Diözesanverband Limburg,dpsg-limburg.de,Hetzner Online GmbH,TYPO3
+11/01/01,Stamm,"Frankfurt-Fechenheim, Normannen",-,,
+11/01/02,Stamm,Frankfurt Nord / Stamm Marcel Callo,dpsg-marcelcallo.de,"Squarespace, Inc.",Unknown
+11/01/03,Stamm,"Frankfurt-Rödelheim, Damian de Veuster",dpsg-roedelheim.de,Strato GmbH,"Nicepage 8.1.15, nicepage.com"
+11/01/04,Stamm,"Frankfurt, Oberrad",oberraeder-pfadfinder.de,IONOS SE,WordPress
+11/01/05,Stamm,"Frankfurt-Heddernheim, Wikinger",dpsg-wikinger.de,Host Europe GmbH,WordPress
+11/01/06,Stamm,"Frankfurt-Unterliederbach, Cherusker",dpsg-cherusker.de,IONOS SE,WordPress
+11/01/07,Stamm,"Frankfurt-Schwanheim, Don Bosco",schwanheimer-pfadfinder.de,INTERNET AG Global Network,WordPress
+11/01/08,Stamm,"Frankfurt-Niederrad, Ch. de Foucauld",dpsg-niederrad.de,manitu GmbH,GravCMS
+11/01/09,Stamm,St. Bonifatius,dpsg-stbonifatius.de,manitu GmbH,Joomla
+11/02/01,Stamm,"Wiesbaden-Schierstein, Thomas Morus",dpsg-schierstein.de,"Cloudflare, Inc.",Unknown
+11/02/03,Stamm,Normannen Eltville,dpsg-eltville.de,netcup GmbH,WordPress
+11/02/04,Stamm,"Wiesbaden, Mutter Teresa",dpsg-bierstadt.de,IONOS SE,WordPress
+11/02/06,Stamm,"Idstein, St. Martin",dpsg-idstein.de,Strato GmbH,Joomla
+11/02/16,Stamm,"Aarbergen, Paloma",stammpaloma-aarbergen.de,"Cloudflare, Inc.",HTTP Status 403
+11/03/01,Stamm,Königstein,dpsg-koenigstein.de,Combell NV,WordPress
+11/03/02,Stamm,"Eschborn, Regenbogen",dpsg-eschborn.de,Hetzner Online GmbH,Unknown
+11/03/04,Stamm,"Hofheim, St. Bonifatius",dpsg-hofheim.de,uvensys GmbH,WordPress
+11/03/06,Stamm,"Kelkheim, Johannes Bosco",dpsg-kelkheim.de,One.com A/S,Unknown
+11/03/08,Stamm,DPSG St. Franziskus Lorsbach-Langenhain,dpsg-lola.de,Host Europe GmbH,WordPress
+11/03/10,Stamm,"Schloßborn, Taunus-Wölfe",-,,
+11/04/01,Stamm,Montabaur,dpsg-montabaur.de,Strato GmbH,Unknown
+11/04/02,Stamm,Stamm St. Rochus Simmern,dpsg-simmern.de,Host Europe GmbH,HTTP Status 403
+11/04/03,Stamm,"Lahnstein-Oberlahnstein, St. Martin",dpsg-lahnstein.de,One.com A/S,WordPress
+11/04/06,Stamm,"Wirges, Katharina Kasper",dpsg-wirges.de,Strato GmbH,WordPress
+11/04/07,Stamm,"Eitelborn, Weiße Rose",dpsg-eitelborn.de,IONOS SE,Unknown
+11/05/01,Stamm,"Weilburg, Rochus Spiecker",dpsg-weilburg.de,WIIT AG,TYPO3
+11/05/02,Stamm,Lahntal (Dietkirchen + Dehrn),-,,
+11/05/03,Stamm,Eisenbach,-,,
+11/05/04,Stamm,"Wetzlar/Dom, Barbarossa",dpsg-wetzlar.de,IONOS SE,WordPress
+11/05/05,Stamm,Limburg-Dom,dpsg-limburgdom.de,IONOS SE,WordPress
+11/05/06,Stamm,"Dornburg Westerw.-Frickhofen, St. Blasius",pfadfinder-frickhofen.de,Hetzner Online GmbH,Unknown
+11/05/08,Stamm,Tilia Hollesse (Limburg-Lindenholzhausen),dpsg-lhh.de,IONOS SE,MyWebsite NOW
+12/00/00,Diözese,Diözesanverband Mainz,dpsg-mainz.de,Neue Medien Muennich GmbH,WordPress
+12/01/00,Bezirk,Bezirk Oberhessen,dpsg-oberhessen.de,uvensys GmbH,WordPress
+12/01/01,Stamm,"Rosbach, St. Johannes",dpsg-rosbach.de,Strato GmbH,WordPress
+12/01/02,Stamm,"Friedberg, St. Leonhard",dpsg-fb.de,netcup GmbH,Drupal
+12/01/03,Stamm,"Lauterbach/Schlitz, St. Michael",dpsg-lauterbach-schlitz.de,IONOS SE,MyWebsite NOW
+12/01/04,Stamm,Sankt Marien Großen-Buseck,-,,
+12/01/05,Stamm,"Langgöns, St. Josef",dpsg-langgoens.de,Hetzner Online GmbH,HTTP Status 500
+12/01/06,Stamm,"Nidderau-Heldenbergen, Sankt Bonifatius",dpsg-nidderau.de,"Cloudflare, Inc.",HTTP Status 403
+12/01/07,Stamm,DPSG St. Andreas Altenstadt e.V.,pfadfinder-altenstadt.de,IONOS SE,WordPress
+12/01/08,Stamm,"Gießen, Franz von Assisi",pfadfinder-giessen.de,Wobcom GmbH,WordPress
+12/02/00,Bezirk,Bezirk Rhein-Main-Hessen,der-beste-bezirk.de,Neue Medien Muennich GmbH,Unknown
+12/02/01,Stamm,"Rüsselsheim, Partner Erde",dpsg-ruesselsheim.de,dogado GmbH,WordPress
+12/02/03,Stamm,"Mainz-Gonsenheim, St. Stephan",dpsg-gonsenheim.de,Nawork Internet Informationssysteme GmbH,WordPress
+12/02/05,Stamm,Klein-Winternheim,-,,
+12/02/07,Stamm,"Ingelheim, Nikolaus von Flüe",dpsg-ingelheim.de,Strato GmbH,WordPress
+12/02/08,Stamm,"Schwabenheim, Greifenklau",stamm-greifenklau.de,IONOS SE,Unknown
+12/02/09,Stamm,"Budenheim, Don Bosco",pfadfinder-budenheim.de,IONOS SE,WordPress
+12/02/10,Stamm,"Mainz-Finthen, Bruder Franz",pfadfinther.de,Neue Medien Muennich GmbH,Unknown
+12/02/11,Stamm,"Mainz, Don Greif",dongreif.de,Neue Medien Muennich GmbH,WordPress
+12/02/15,Stamm,"Rödermark-Urberach, Gralsritter",pfadfinder-urberach.de,Host Europe GmbH,WordPress
+12/02/16,Stamm,"Dietzenbach, St. Martin",pfadfinder-dietzenbach.de,dogado GmbH,WordPress
+12/02/20,Stamm,"Wöllstein, St. Franziskus-Rheinhessische Schweiz",-,,
+12/02/21,Siedlung,Heidesheim,pfadfinder-heidesheim.de,Strato GmbH,Unknown
+12/03/00,Bezirk,Bezirk Heldon,dpsg-heldon.de,Neue Medien Muennich GmbH,WordPress
+12/03/01,Stamm,"Seeheim-Jugenheim, Bonifatius",dpsg-seeheim.de,Strato GmbH,Unknown
+12/03/03,Stamm,"Seeheim-Jugenheim, Ulrich von Münzenberg",dpsg-jugenheim.de,manitu GmbH,WordPress
+12/03/05,Stamm,"Breuberg-Höchst, Hl. Karl Borromäus",dpsg-odenwald.de,Strato GmbH,WordPress
+12/03/06,Stamm,"Darmstadt-Arheilgen, Arheilgen",dpsg-arheilgen.de,webgo GmbH,HTTP Status 403
+12/03/07,Stamm,Dieburg,dpsg-dieburg.de,EVANZO e-commerce GmbH,Joomla
+12/03/08,Stamm,"Gross-Zimmern, St. Bartholomäus",dpsg-gross-zimmern.de,EVANZO e-commerce GmbH,Unknown
+12/03/11,Stamm,"Münster, St. Michael",pfadfinder-muenster.de,webgo GmbH,WordPress
+12/03/13,Stamm,"Michelstadt / Odenwald, St. Christophorus",dpsgmichelstadt.de,IONOS SE,WordPress
+12/03/14,Stamm,"Weiterstadt, St. Johannes",dpsg-weiterstadt.de,Hetzner Online GmbH,WordPress
+12/03/15,Stamm,"Heppenheim, St. Peter",dpsg-heppenheim.de,comtrance service GmbH,wint.global - Webseiten Baukasten
+12/03/17,Stamm,"Viernheim, Folke Bernadotte",pfadfinder-viernheim.de,Neue Medien Muennich GmbH,WordPress
+12/03/18,Stamm,"Lorsch, St. Nazarius",pfadfinder-lorsch.de,IONOS SE,Unknown
+12/03/19,Stamm,"Bürstadt, Bruder Feuer",dpsgbuerstadt.de,IONOS SE,WordPress
+12/03/20,Stamm,"Lampertheim, Guy de Larigaudie",dpsglampertheim.de,Contabo GmbH,HTTP Status 500
+12/03/23,Stamm,"Darmstadt, Liebfrauen",dpsg-darmstadt-liebfrauen.de,regfish GmbH,WordPress
+12/03/25,Stamm,Einhausen,pfadfinder-einhausen.de,dogado GmbH,WordPress
+13/00/00,Diözese,Diözesanverband München,dpsg1300.de,Mittwald CM Service GmbH und Co. KG,WordPress
+13/12/00,Bezirk,Bezirk München-Isar,dpsg1312.de,Strato GmbH,WordPress
+13/12/02,Stamm,"München-Giesing, Hl. Engel",heiligengel.de,M-net Telekommunikations GmbH,Drupal
+13/12/03,Stamm,"Garching, St. Severin",severin-garching.de,netcup GmbH,WordPress
+13/12/04,Stamm,Stamm Mariahilf,pfadfindermariahilf.de,noris network AG,WordPress
+13/12/06,Stamm,"München-Schwabing, Pater Rupert Mayer",stamm-prm.de,Hetzner Online GmbH,Unknown
+13/12/07,Stamm,Maximilian Kolbe,maxkolbe.de,netcup GmbH,Hugo
+13/12/08,Stamm,"München-Solln, St. Ansgar",sanktansgar.de,Hetzner Online GmbH,WordPress
+13/12/09,Stamm,"München-Olympiadorf, Frieden Christi",pfadi-fc.de,One.com A/S,Unknown
+13/12/10,Stamm,Pfadfinderstamm Swapingo,swapingo.de,Strato GmbH,WordPress
+13/12/12,Stamm,"München-Lehel, St. Anna",-,,
+13/12/13,Stamm,"München-Grosshadern, St. Canisius",scoutingcanisius.de,Neue Medien Muennich GmbH,WordPress
+13/12/14,Siedlung,München Hl. Kreuz - Forstenried,pfadfinder-hlkreuz.de,Hetzner Online GmbH,WordPress
+13/13/00,Bezirk,Bezirk München - Ost,dpsg1313.de,Strato GmbH,WordPress
+13/13/02,Stamm,Ottobrunn,dpsgottobrunn.de,Wix.com Ltd.,Wix.com Website Builder
+13/13/04,Stamm,"Camilo Torres, Hohenbrunn",camilo.de,IONOS SE,WordPress
+13/13/05,Stamm,"München-Riem, Galileo Galilei",dpsg-riem.de,Strato GmbH,Unknown
+13/13/06,Stamm,"Unterhaching, St. Birgitta",dpsg-u1.org,Strato GmbH,WordPress
+13/13/07,Stamm,"Neukeferloh, Columbus",stamm-columbus.de,netcup GmbH,WordPress
+13/13/08,Stamm,"München-Waldtrudering, Condor",dpsg-condor.de,Strato GmbH,Unknown
+13/13/09,Stamm,"Putzbrunn, Arche Noah",dpsg-putzbrunn.de,One.com A/S,Incomedia WebSite X5
+13/13/12,Stamm,"München-Perlach, St. Michael",dpsg-perlach.de,Neue Medien Muennich GmbH,October
+13/14/00,Bezirk,Bezirk Würm - Amper,wuerm-amper.de,netcup GmbH,WordPress
+13/14/01,Stamm,"Olching, St. Peter und Paul",pfadfinder-olching.de,netcup GmbH,WordPress
+13/14/03,Stamm,"München-Pas., St. Hildeg./M.Schutz",-,,
+13/14/04,Stamm,"Germering, Parsberg",parsbergstamm.de,"Cloudflare, Inc.",WordPress
+13/14/05,Stamm,"Gröbenzell, St. Johann Baptist",dpsg-gzell.de,Hetzner Online GmbH,WordPress
+13/14/06,Stamm,"Puchheim, Bison",pfadfinderpuchheim.de,Host Europe GmbH,WordPress
+13/14/08,Stamm,"Karlsfeld, Anjo II",dpsg-karlsfeld.de,dogado GmbH,Unknown
+13/14/09,Stamm,"München-Neuhadern, Oscar A. Romero",oaromero.de,Host Europe GmbH,Unknown
+13/14/13,Stamm,"München-Laim, St. Willibald",williscouts.de,netcup GmbH,WordPress
+13/14/14,Stamm,"München-Westend, St. Rupert",rupert-scouts.de,Strato GmbH,WordPress
+13/15/00,Bezirk,Bezirk Freising,-,,
+13/15/01,Stamm,"Freising, St. Georg",dpsg-freising.de,Strato GmbH,WordPress
+13/15/03,Stamm,"Moosburg, St. Kastulus",-,,
+13/15/06,Stamm,"Langenbach, Wolfsspur",dpsg-langenbach.de,Strato GmbH,WordPress
+13/16/00,Bezirk,Bezirk Ruperti - Mühldorf,dpsg1316.de,Strato GmbH,WordPress
+13/16/01,Stamm,"Freilassing, St. Rupert",pfadfinder-freilassing.de,IONOS SE,WordPress
+13/16/02,Stamm,"Mühldorf, Tilly",dpsg-muehldorf.de,"Cloudflare, Inc.",HTTP Status 403
+13/16/04,Stamm,"Mitterfelden, Christopherus",pfadfinder-mitterfelden.de,Strato GmbH,WordPress
+13/16/05,Stamm,"Laufen, Mariä Himmelfahrt",dpsg-laufen.de,Neue Medien Muennich GmbH,WordPress
+13/16/06,Stamm,Don Bosco Polling,dpsg-polling.de,Strato GmbH,Contao Open Source CMS
+13/16/08,Stamm,Surberg,-,,
+13/16/11,Siedlung,Steinadler Talkessel Berchtesgaden,pfadfinder-bgd.de,EVANZO e-commerce GmbH,WordPress
+13/17/00,Bezirk,Bezirk Ebersberg,dpsg-ebersberg.de,netcup GmbH,WordPress
+13/17/01,Stamm,"Rott am Inn, Marinus",pfadfinder-rott.de,Hetzner Online GmbH,WordPress
+13/17/03,Stamm,"Kirchseeon, St. Joseph",dpsg-kirchseeon.de,Strato GmbH,WordPress
+13/17/05,Stamm,"Anzing/Poing, Windrose",dpsg-windrose.de,TelemaxX Telekommunikation GmbH,WordPress
+13/17/08,Stamm,"Grafing, St. Sebastian",dpsg-grafing.de,netcup GmbH,WordPress
+13/17/09,Stamm,"Hohenlinden, Impeesa",dpsg-hohenlinden.de,netcup GmbH,GravCMS
+13/19/00,Bezirk,Bezirk Rosenheim,dpsg-rosenheim.de,manitu GmbH,WordPress
+13/19/01,Stamm,"Kiefersfelden, Adler",pfadfinderstamm-adler-kiefersfelden.de,"Cloudflare, Inc.",WordPress
+13/19/02,Stamm,Prutting,-,,
+13/19/03,Stamm,"Rosenheim, St. Michael",scouting-rosenheim.de,Hosting.de GmbH,WordPress
+13/19/04,Stamm,Mountain Scouts Aschau,dpsg-aschau.de,Strato GmbH,Incomedia WebSite X5
+13/19/06,Stamm,"Degerndorf / Brannenburg, Christkönig",dpsg-degerndorf.de,united-domains GmbH,WordPress
+13/19/08,Stamm,"Rosenheim-Oberwöhr, St. Josef d. Arbeiter",pfadfinder-oberwoehr.de,united-domains GmbH,auctores CMS
+13/19/10,Stamm,"Bad Aibling, St. Franziskus",dpsg-aibling.de,webhoster.de AG,WordPress
+13/19/11,Stamm,"Kolbermoor, St. Franziskus",dpsgkolbermoor.de,netcup GmbH,WordPress
+13/19/12,Stamm,"Feldkirchen-Westerh., Phoenix",stamm-phoenix.de,"Cloudflare, Inc.",HTTP Status 522
+13/19/13,Stamm,"Grosskarolinenfeld, Christophorus",pfadfinder-grosskarolinenfeld.de,manitu GmbH,WordPress
+13/19/15,Stamm,St. Quirinus Fürstätt,pfadfinder-fuerstaett.de,Hetzner Online GmbH,WordPress
+13/20/00,Bezirk,Bezirk Oberland,bezirk-oberland.de,netcup GmbH,WordPress
+13/20/01,Stamm,"Holzkirchen, St. Laurentius",pfadfinder-holzkirchen.de,comtrance service GmbH,Unknown
+13/20/03,Stamm,"Baierbrunn, Ägypten",dpsg-aegypten.de,Google LLC,Unknown
+13/20/05,Stamm,St. Sixtus Schliersee,dpsg-schliersee.de,Hosting.de GmbH,WordPress
+13/20/06,Stamm,"Iffeldorf/Seeshaupt, St. Vitus",-,,
+13/20/08,Stamm,"Benediktbeuern, Dominikus Savio",dpsg-benediktbeuern.de,Hosting.de GmbH,WordPress
+13/20/10,Stamm,"Bad Tölz, Eisvogel",dpsg-toelz.de,Hetzner Online GmbH,Unknown
+14/00/00,Diözese,Diözesanverband Münster,dpsg-muenster.de,Hetzner Online GmbH,WordPress
+14/01/00,Bezirk,Bezirk Niederrhein-Nord,dpsg-bezirk-nn.de,dogado GmbH,Unknown
+14/01/01,Stamm,"Xanten, St. Viktor",dpsg-xanten.de,Strato GmbH,WordPress
+14/01/03,Stamm,"Emmerich, Janusz Korczak",dpsg-emmerich.de,uvensys GmbH,WordPress
+14/01/04,Stamm,DPSG St. Augustinus Gaesdonck,dpsg-gaesdonck.de,Neue Medien Muennich GmbH,WordPress
+14/01/06,Stamm,"Kleve-Materborn, St. Georg",dpsg-materborn.de,IONOS SE,HTTP Status 500
+14/01/07,Stamm,"Schermbeck, St. Ludgerus",dpsg-schermbeck.de,IONOS SE,WordPress
+14/01/08,Stamm,"Alpen, St. Ulrich",pfadfinder-alpen.de,Hetzner Online GmbH,WordPress
+14/01/09,Stamm,"Sonsbeck, St.Maria Magdalena",dpsg-sonsbeck.de,IONOS SE,WordPress
+14/01/11,Stamm,"Wesel-Feldmark, Herz Jesu",dpsg-feldmark.de,Strato GmbH,WordPress
+14/01/12,Stamm,Wesel-Flüren,dpsg-wesel-flueren.de,dogado GmbH,Unknown
+14/01/13,Stamm,"Wesel, z. d. Hl. Engeln",dpsg-fusternberg.de,IONOS SE,HTTP Status 403
+14/01/15,Stamm,"Kalkar, St. Benedikt",-,,
+14/01/16,Stamm,Geldern-Hartefeld,dpsg-hartefeld.de,IONOS SE,WordPress
+14/01/17,Stamm,"Weeze, St. Cyriakus",dpsg-weeze.de,Strato GmbH,Unknown
+14/01/18,Stamm,"Hamminkeln, St. Maria Himmelfahrt",-,,
+14/01/20,Stamm,"Geldern-Veert, St. Martin",dpsg-veert.de,IONOS SE,WordPress
+14/01/21,Stamm,"Geldern, St. Maria Magdalena",dpsggeldern.de,dogado GmbH,Unknown
+14/01/22,Stamm,"Hamminkeln, Wertherbruch",-,,
+14/01/23,Stamm,Uedem,dpsg-uedem.de,Strato GmbH,WordPress
+14/01/25,Stamm,Geldern-Kapellen,dpsg-kapellen.de,netcup GmbH,HTTP Status 400
+14/01/27,Stamm,"Rheurdt, St. Nikolaus",dpsg-rheurdt.de,"Cloudflare, Inc.",HTTP Status 403
+14/01/30,Stamm,"Goch, Edelweiß",pfadfinder-edelweiss.com,IONOS SE,MyWebsite NOW
+14/02/00,Bezirk,Bezirk Oldenburg,dpsg-bezirk-oldenburg.de,Hosting.de GmbH,WordPress
+14/02/01,Stamm,"Vechta, Füchtel",dpsg-füchtel.de,Hetzner Online GmbH,WordPress
+14/02/02,Stamm,"Vechta, St. Georg",dpsg-vechta.de,"Cloudflare London, LLC",WordPress
+14/02/04,Stamm,"Steinfeld, v. Schagen",dpsg-steinfeld.de,Neue Medien Muennich GmbH,Unknown
+14/02/05,Stamm,"Dinklage, von Galen",pfadfinderdinklage.com,"Automattic, Inc",WordPress
+14/02/06,Stamm,"Wilhelmshaven, Christus König",dpsg-wilhelmshaven.de,"Amazon.com, Inc.",Joomla
+14/02/07,Stamm,"Lohne, St. Gertrud",dpsg-lohne.de,"Squarespace, Inc.",Unknown
+14/02/08,Stamm,"Damme, Benedikt",-,,
+14/02/11,Stamm,"Oldenburg, Widukind",dpsg-widukind-ol.de,Hetzner Online GmbH,WordPress
+14/02/12,Stamm,"Varel, Stella Maris",dpsg-varel.de,Hosting.de GmbH,WordPress
+14/02/13,Stamm,"Goldenstedt-Ellenstedt, St. Heinrich",-,,
+14/02/16,Stamm,"Barssel, St. Franziskus",-,,
+14/02/17,Stamm,"Bakum, St. Johannes",-,,
+14/02/18,Stamm,"Lindern, Philipp Neri",dpsg-lindern.de,Strato GmbH,WordPress
+14/03/00,Bezirk,Bezirk Borken,dpsg-borken.de,Neue Medien Muennich GmbH,WordPress
+14/03/01,Stamm,Rhede,dpsg-rhede.de,ecotel communication ag,TYPO3
+14/03/02,Stamm,"Bocholt, St. Josef",-,,
+14/03/04,Stamm,"Bocholt, St. Norbert",norbert-pfadis.de,Hetzner Online GmbH,Unknown
+14/03/05,Stamm,"Bocholt, Hl. Kreuz",pfadfinder-heilig-kreuz.de,Strato GmbH,Unknown
+14/03/06,Stamm,"Borken, St. Remigius",-,,
+14/03/07,Stamm,"Epe, St. Antonius",-,,
+14/03/09,Stamm,Velen-Ramsdorf,-,,
+14/03/10,Stamm,Isselburg,schwarzzeug.net,IONOS SE,Unknown
+14/03/11,Stamm,"Ahaus, St. Marien",dpsg-ahaus.de,Neue Medien Muennich GmbH,WordPress
+14/03/13,Stamm,Stadtlohn,-,,
+14/03/16,Stamm,Schöppingen,dpsg-schoeppingen.de,uvensys GmbH,Unknown
+14/03/24,Stamm,"Gescher, St. Pankratius",dpsg-gescher.de,Deutsche Telekom AG,Unknown
+14/04/00,Bezirk,Bezirk Recklinghausen,dpsg-recklinghausen.de,Hetzner Online GmbH,Unknown
+14/04/01,Stamm,"Marl-Sinsen, Vasco da Gama",dpsgmarl-sinsen.de,Neue Medien Muennich GmbH,WordPress
+14/04/02,Stamm,DPSG Hillerheide,dpsg-hillerheide.de,Neue Medien Muennich GmbH,WordPress
+14/04/05,Stamm,"Dorsten, St. Johannes",-,,
+14/04/06,Stamm,"Recklinghausen, Liebfrauen-Ost",dpsg-re-liebfrauen-ost.de,IONOS SE,Unknown
+14/04/09,Stamm,DPSG St. Agatha Dorsten,-,,
+14/04/11,Stamm,"Recklinghausen-Nord, St. Elisabeth",re-nord.de,IONOS SE,WordPress
+14/04/12,Stamm,"Marl- Lenkerbeck, St. Marien",-,,
+14/04/16,Stamm,"Marl-Sickingmühle, Christ König",dpsg-marl-sickingmuehle.de,IONOS SE,WordPress
+14/04/17,Stamm,Recklinghausen-Hochlar,dpsg-hochlar.de,Strato GmbH,WordPress
+14/04/18,Stamm,Oer-Erkenschwick,dpsg-o-e.de,IONOS SE,Unknown
+14/04/19,Stamm,"Dorsten-Wulfen-Barkenberg, St. Barbara",-,,
+14/04/20,Stamm,"Bottrop-Grafenwald, Hl. Familie",pfadfinder-grafenwald.de,Hosting.de GmbH,Unknown
+14/04/21,Stamm,"Dorsten, St. Bonifatius",dpsg-st-bonifatius.de,Hetzner Online GmbH,HTTP Status 404
+14/04/22,Stamm,Waltrop,pfadfinder-waltrop.de,IONOS SE,Unknown
+14/04/23,Siedlung,Haltern am See,dpsg-haltern.de,Neue Medien Muennich GmbH,WordPress
+14/05/00,Bezirk,Bezirk Steinfurt,dpsg-steinfurt.de,Host Europe GmbH,WordPress
+14/05/02,Stamm,"Saerbeck, St. Georg",dpsg-saerbeck.de,Strato GmbH,WordPress
+14/05/03,Stamm,"Emsdetten, St. Pankratius",-,,
+14/05/04,Stamm,"Burgsteinfurt, St.Johannes Nepomuk",dpsg-burgsteinfurt.de,Host Europe GmbH,WordPress
+14/05/06,Stamm,"Nordwalde, St. Dionysius",dpsg-nordwalde.de,dogado GmbH,WordPress
+14/05/07,Stamm,"Wettringen, St. Petronilla",pfadfinder-wettringen.de,Neue Medien Muennich GmbH,WordPress
+14/05/09,Stamm,"Mettingen, TüöttenStamm",dpsg-mettingen.de,Strato GmbH,Unknown
+14/05/10,Stamm,"Greven, St. Josef",dpsg-greven.de,netcup GmbH,WordPress
+14/05/14,Stamm,Stamm Ladbergen,-,,
+14/05/16,Stamm,"Tecklenburg, St. Michael",dpsg-tecklenburg.de,Bradler & Krantz GmbH & Co. KG,WordPress
+14/05/17,Stamm,Greven-Reckenfeld,-,,
+14/06/00,Bezirk,Bezirk Warendorf,-,,
+14/06/03,Stamm,"Ostbevern, St. Ambrosius",dpsg-ostbevern.de,Hetzner Online GmbH,WordPress
+14/06/04,Stamm,Drensteinfurt,dpsg-drensteinfurt.de,IONOS SE,WordPress
+14/06/05,Stamm,Warendorf,dpsg-waf.de,Host Europe GmbH,WordPress
+14/06/08,Stamm,Ahlen/Westf.,dpsg-ahlen.de,"Cloudflare, Inc.",HTTP Status 403
+14/06/09,Stamm,"Oelde, Der kleine Bach",dpsg-oelde.de,Hetzner Online GmbH,Zeta Producer
+14/06/10,Stamm,"Beckum, St. Stephanus",dpsg-beckum.de,WIIT AG,Unknown
+14/06/11,Stamm,"Ennigerloh, Enniger",dpsg-enniger.de,Strato GmbH,ConnectTimeoutError
+14/06/13,Stamm,"Drensteinfurt-Rinkerode, St. Pankratius",-,,
+14/06/14,Stamm,"Hamm-Bockum-Hövel, Impeesa-HeiligGeist",stamm-impeesa.de,IONOS SE,Unknown
+14/06/15,Stamm,"Sendenhorst, St. Martinus",pfadfinder-sendenhorst.de,uvensys GmbH,Unknown
+14/07/00,Bezirk,Bezirk Münster,bezirk-muenster.de,Mittwald CM Service GmbH und Co. KG,WordPress
+14/07/01,Stamm,"Münster-Gievenbeck, St. Michael",dpsg-gievenbeck.de,Hetzner Online GmbH,WordPress
+14/07/02,Stamm,"Münster-Handorf, St. Petronilla",dpsg-handorf.de,uvensys GmbH,WordPress
+14/07/03,Stamm,DPSG St. Liutger,kreuz-pfadfinder.de,Host Europe GmbH,WordPress
+14/07/04,Stamm,"Münster-Wolbeck, Don Bosco",donboscowolbeck.de,"Automattic, Inc",WordPress
+14/07/06,Stamm,"Münster, Gremmendorf",dpsg-stamm-gremmendorf.de,IONOS SE,MyWebsite NOW
+14/07/07,Stamm,"Münster-Hiltrup, Rochus Spiecker",dpsg-hiltrup.de,IONOS SE,WordPress
+14/07/09,Stamm,"St. Anna Mecklenbeck Albachten Roxel Aaseestadt, Münster",dpsg-st-anna.de,IONOS SE,WordPress
+14/07/12,Stamm,"Münster, St. Franziskus",dpsg-sfm.de,dogado GmbH,WordPress
+14/07/17,Stamm,Herz-Jesu Münster,dpsg-herz-jesu-muenster.de,Neue Medien Muennich GmbH,WordPress
+14/08/00,Bezirk,Bezirk Niederrhein-Süd,bezirk-nrs.de,Neue Medien Muennich GmbH,WordPress
+14/08/01,Stamm,"Moers-Wesel, St. Josef",dpsg-moers.de,"Cloudflare, Inc.",Unknown
+14/08/04,Stamm,"Duisburg-Homberg, Hochheide",-,,
+14/08/06,Stamm,"Duisburg-Rheinhausen, Christus König",dpsg-ck.de,Neue Medien Muennich GmbH,WordPress
+14/08/07,Stamm,"Dinslaken, St. Vincentius",dpsg-din.de,"Cloudflare, Inc.",WordPress
+14/08/11,Stamm,"Duisburg, St. Ludger",-,,
+14/08/12,Stamm,"Friedrichsfeld, St. Elisabeth",-,,
+14/08/13,Stamm,"Rheinberg, St. Anna, Phönix",phoeniximweb.de,Neue Medien Muennich GmbH,WordPress
+14/08/14,Stamm,"Kamp-Lintfort, St. Marien",-,,
+14/08/15,Stamm,"Voerde-Spellen, Sankt Peter Spellen",-,,
+14/09/00,Bezirk,Bezirk Coesfeld,dpsg-bezirk-coesfeld.de,Michael Rottmann trading as Pixel X e.K.,WordPress
+14/09/01,Stamm,"Dülmen, Heilig Kreuz",dpsg-duelmen.de,Neue Medien Muennich GmbH,Unknown
+14/09/02,Stamm,Nordkirchen,dpsg-nordkirchen.de,InterNetworX Management GmbH,HTTP Status 400
+14/09/03,Stamm,Lüdinghausen,dpsg-lh.de,netcup GmbH,WordPress
+14/09/04,Stamm,"Lette, St. Johannes",dpsg-pfadfinder-lette.de,IONOS SE,Unknown
+14/09/05,Stamm,"Nottuln, St. Martin",dpsg-nottuln.de,Strato GmbH,WordPress
+14/09/08,Stamm,"Selm, St. Josef",pfadfinder-selm.de,firstcolo GmbH,WordPress
+14/09/10,Stamm,Senden,dpsg-senden.de,Strato GmbH,Unknown
+14/09/11,Stamm,"Olfen, St. Vitus",dpsg-olfen.org,Strato GmbH,WordPress
+14/09/13,Stamm,Coesfeld,dpsg-coesfeld.de,Hetzner Online GmbH,WordPress
+15/00/00,Diözese,Diözesanverband Osnabrück,dpsg-os.de,Contabo GmbH,WordPress
+15/00/01,Stamm,Pfadwind,pfadwind.de,"Cloudflare, Inc.",WordPress
+15/00/02,Siedlung,"Borkum, Nordlichter",-,,
+15/01/02,Stamm,"Haren, Nordlicht Altharen",dpsg-altharen.de,Neue Medien Muennich GmbH,HTTP Status 400
+15/01/04,Stamm,Papenburg,-,,
+15/01/13,Stamm,"Haselünne-Lehrte, St. Vincentius",dpsg-haseluenne.de,dogado GmbH,Unknown
+15/01/15,Stamm,"Haren, Franziskus",pfadfinder-haren.de,dogado GmbH,Unknown
+15/01/23,Stamm,"Nordhorn, St. Marien",dpsg-nordhorn.de,IONOS SE,Joomla
+15/04/01,Stamm,"Melle-Gesmold, Horizonte",-,,
+15/04/02,Stamm,"Osnabrück, Rosenkranz",-,,
+15/04/04,Stamm,Holzhausen-Ohrbeck,dpsg-holzhausen.de,dogado GmbH,WordPress
+15/04/07,Stamm,"Oesede, Hl. Geist",dpsg-oesede.de,dogado GmbH,Unknown
+15/04/09,Stamm,"Wallenhorst, St. Alexander",wapfi.online,Wix.com Ltd.,Wix.com Website Builder
+15/04/10,Stamm,"Neuenkirchen, St. Laurentius",-,,
+15/04/22,Stamm,Stamm Maximilian Kolbe Rulle,pfadfinderrulle.de,"Weebly, Inc.",Unknown
+16/00/00,Diözese,Diözesanverband Paderborn,dpsg-paderborn.de,SOPRADO GmbH,WordPress
+16/01/00,Bezirk,Bezirk Dortmund,dpsg-dortmund.de,Hetzner Online GmbH,WordPress
+16/01/01,Stamm,"Dortmund-Mitte, St. Franziskus",dpsg-do-mitte.de,Strato GmbH,WordPress
+16/01/02,Stamm,Dortmund-Husen,dpsg-husen.de,netcup GmbH,WordPress
+16/01/03,Stamm,"Dortmund-Wambel, St. Meinolfus",dpsg-wambel.de,EVANZO e-commerce GmbH,WordPress
+16/01/04,Stamm,DPSG St. Remigius Dortmund-Mengede,dpsg-mengede.de,Equinix (Germany) GmbH,Weblication® CMS
+16/01/06,Stamm,Dortmund-Lütgendortmund,dpsg-luetgendortmund.de,Hetzner Online GmbH,WordPress
+16/01/07,Stamm,"Dortmund-Soelde, St. Marien",dpsg-soelde.de,Strato GmbH,WordPress
+16/01/10,Stamm,"Dortmund-Huckarde, St. Urbanus",dpsg-huckarde.de,Neue Medien Muennich GmbH,Unknown
+16/01/11,Stamm,St. Liborius - Dortmund-Körne,dpsglibori.de,EVANZO e-commerce GmbH,WordPress
+16/01/13,Stamm,"Dortmund-Hörde, Marcel Callo",dpsg-hoerde.de,dogado GmbH,WordPress
+16/01/14,Stamm,"Dortmund-Scharnhorst, St. Franziskus",dpsg-scharnhorst.de,IONOS SE,Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+16/01/15,Stamm,DPSG Dortmund-Barop (FRAXA),dpsg-barop.de,Hetzner Online GmbH,WordPress
+16/01/16,Stamm,"Dortmund-Kirchlinde, St. Josef",dpsg-kirchlinde.de,Neue Medien Muennich GmbH,HTTP Status 403
+16/01/17,Stamm,"Dortmund-Aplerbeck, St. Ewaldi",dpsg-aplerbeck.de,Neue Medien Muennich GmbH,Unknown
+16/01/18,Stamm,"DPSG Dortmund-Brünninghausen, Hl. Familie",dpsg-bruenninghausen.de,"Fastly, Inc.",Unknown
+16/01/19,Stamm,"Dortmund-Lichtendorf/Sölderholz, Bonifaten 80",bonifaten80.de,uvensys GmbH,Unknown
+16/01/21,Stamm,Dortmund-Berghofen,dpsg-berghofen.de,Hetzner Online GmbH,WordPress
+16/01/23,Stamm,"Dortmund-Lanstrop, St. Michael",-,,
+16/01/24,Stamm,"Castrop-Rauxel, St. Lambertus",dpsg-castrop.de,IONOS SE,WordPress
+16/01/25,Stamm,"Herne, Amelungen",dpsg-amelungen.org,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,HTTP Status 500
+16/01/26,Stamm,"Herne-Eickel, Franziskus",dpsg-st-franziskus.de,netcup GmbH,WordPress
+16/02/00,Bezirk,Bezirk Ruhr-Sauerland,ruhrsau.de,Hetzner Online GmbH,WordPress
+16/02/01,Stamm,Goten Unna,dpsg-unna.de,Host Europe GmbH,Unknown
+16/02/02,Stamm,Hohenlimburg,dpsg-hohenlimburg.de,IONOS SE,WordPress
+16/02/03,Stamm,"Hagen-Boele, St. Joh. Baptist",stamm-boele.de,netcup GmbH,Joomla
+16/02/04,Stamm,"Schwerte-Ost, St. Marien",dpsg-schwerte.de,Contabo GmbH,WordPress
+16/02/06,Stamm,"Hagen, St. Elisabeth",dpsg-hagen.de,Hetzner Online GmbH,WordPress
+16/02/07,Stamm,Wittener Löwen,wittener-pfadfinder.de,Hetzner Online GmbH,WordPress
+16/02/08,Stamm,DPSG St. Urban Ende-Syburg (Stamm),dpsg-st-urban.de,Hetzner Online GmbH,WordPress
+16/02/11,Stamm,Fröndenberg-Warmen,dpsg-froendenberg.de,Strato GmbH,WordPress
+16/02/14,Stamm,"Herdecke, Marcel Callo",dpsg-mch.de,Wix.com Ltd.,Wix.com Website Builder
+16/02/16,Stamm,"Iserlohn-Nussberg, Arche",pfadfinder-nussberg.de,"Cloudflare, Inc.",HTTP Status 403
+16/02/18,Stamm,"Witten-Bommern, Herz Jesu",dpsg-bommern.de,dogado GmbH,WordPress
+16/03/00,Bezirk,Bezirk Soest-Hamm,dpsg-soest-hamm.de,Hetzner Online GmbH,WordPress
+16/03/01,Stamm,"Bad-Westernk., Franz v. Assisi",dpsg-badwesternkotten.de,Hetzner Online GmbH,WordPress
+16/03/02,Stamm,"Möhnesee-Körbecke, St. Pankratius",-,,
+16/03/03,Stamm,"Geseke, Marco Polo",dpsg-geseke.de,dogado GmbH,WordPress
+16/03/04,Stamm,Hamm-Süden,dpsg-hamm-sueden.de,Hetzner Online GmbH,WordPress
+16/03/05,Stamm,"Lippstadt, Phönix",dpsgphoenixlippstadt.de,Strato GmbH,WordPress
+16/03/06,Stamm,Hamm-Norden,-,,
+16/03/07,Stamm,Soest,dpsg-soest.de,Hetzner Online GmbH,WordPress
+16/03/08,Stamm,"Lippetal, Lippborg",dpsglippborg.de,Hetzner Online GmbH,WordPress
+16/03/11,Stamm,"Warstein, St. Petrus",dpsg-warstein.de,netcup GmbH,WordPress
+16/03/12,Stamm,Graf-Folke-Bernadotte Rüthen,dpsg-ruethen.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+16/03/13,Stamm,"Warstein-Belecke, St. Pankratius",-,,
+16/03/14,Stamm,"Heessen-Dasbeck, Don Bosco",stamm-don-bosco.de,Strato GmbH,Unknown
+16/03/15,Stamm,"Welver, Maximilian Kolbe",dpsg-welver.de,Strato GmbH,WordPress
+16/03/18,Stamm,Hamm-Berge,dpsg-hamm-berge.de,Host Europe GmbH,Joomla
+16/03/19,Stamm,"Lippetal, Oestinghausen",-,,
+16/03/21,Stamm,"Lippstadt, Albatros Cappel",pfadfinder-albatros-cappel.de,"Cloudflare, Inc.",HTTP Status 403
+16/04/00,Bezirk,Bezirk Hochsauerland,dpsg-hochsauerland.de,Hetzner Online GmbH,WordPress
+16/04/02,Stamm,"Neheim, St. Christopher",pfadfinder-neheim.de,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,WordPress
+16/04/03,Stamm,"Arnsberg-Hüsten, Stamm Sankt Ludgerus",dpsg-huesten.de,Host Europe GmbH,WordPress
+16/04/04,Stamm,"Herdringen, St. Antonius",dpsg-herdringen.de,IONOS SE,Unknown
+16/04/05,Stamm,"Eslohe-Wenholthausen, St. Cäcilia",dpsg-wenholthausen.de,Strato GmbH,Unknown
+16/04/06,Stamm,"Arnsberg, Liebfrauen",dpsg-arnsberg.de,Host Europe GmbH,HTTP Status 403
+16/04/07,Stamm,"Meschede-Eversberg, St. Ever.",dpsg-eversberg.de,Neue Medien Muennich GmbH,Unknown
+16/04/08,Stamm,"Brilon, Propstei",dpsg-brilon.de,Hetzner Online GmbH,Unknown
+16/04/09,Stamm,Stamm Kückelheim,-,,
+16/04/11,Stamm,"Meschede, St. Walburga",dpsg-meschede.de,Hetzner Online GmbH,WordPress
+16/05/00,Bezirk,Bezirk Siegerland-Südsauerland,dpsg-sisuesau.de,Hetzner Online GmbH,HTTP Status 500
+16/05/01,Stamm,"Siegen, St. Michael",pfadfinder-siegen.de,"Cloudflare, Inc.",WordPress
+16/05/02,Stamm,"Siegen, St. Peter und Paul",-,,
+16/05/03,Stamm,Siegen-Hüttental,dpsg-huettental.de,HKN GmbH,WordPress
+16/05/05,Stamm,"Olpe, Vinzenz Pallotti",dpsg-pfadfinden-olpe.de,SpaceNet AG,WordPress
+16/05/06,Stamm,"Netphen, St. Martini",dpsg-netphen.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,Unknown
+16/05/07,Stamm,Netphen-Dreis-Tiefenbach,dpsg-dreisbe.de,EVANZO e-commerce GmbH,WordPress
+16/05/09,Stamm,"Attendorn-Ennest, St. Margaretha",-,,
+16/05/10,Stamm,"Wilnsdorf-Rudersdorf, St. Laurentius",-,,
+16/06/00,Bezirk,Bezirk OWL,dpsg-owl.de,Hetzner Online GmbH,WordPress
+16/06/01,Stamm,"Paderborn-Schloß Neuhaus, St. Heinrich",dpsgschlossneuhaus.de,Hetzner Online GmbH,WordPress
+16/06/02,Stamm,"Paderborn, St. Meinolf",dpsg-st-meinolf.de,Strato GmbH,WordPress
+16/06/03,Stamm,"Herford, St. Johannes Baptist",herforder-pfadfinder.de,Hetzner Online GmbH,WordPress
+16/06/04,Stamm,"Bielefeld, Liebfrauen",dpsg-bielefeld.de,dogado GmbH,WordPress
+16/06/06,Stamm,Nordborchen,dpsg-nordborchen.de,Neue Medien Muennich GmbH,Unknown
+16/06/07,Stamm,Gütersloh-Spexard,pfadfinder-guetersloh.de,Hetzner Online GmbH,WordPress
+16/06/08,Stamm,"Paderborn, Auf der Lieth, St. Hedwig",dpsg-sthedwig.de,Contabo GmbH,WordPress
+16/06/10,Stamm,Lemgo,dpsg-lemgo.de,Neue Medien Muennich GmbH,HTTP Status 403
+16/06/13,Stamm,"Detmold, Hl. Kreuz",dpsg-detmold.de,Strato GmbH,Joomla
+16/06/17,Stamm,"Paderborn-Elsen, St. Dionysius Elsen",dpsg-elsen.de,23M GmbH,WordPress
+16/08/00,Bezirk,Bezirk Corvey,dpsg-corvey.de,Strato GmbH,Unknown
+16/08/01,Stamm,"Höxter-Stadtmitte, St. Ansgar",pfadfinder-hoexter.de,Strato GmbH,WordPress
+16/08/03,Stamm,Stamm St. Johannes Baptist Lüchtringen,dpsg-luechtringen.de,IONOS SE,Xara Web Designer
+16/08/04,Stamm,"Stahle, St. Anna",dpsg-stahle.de,Randy Sieber,Unknown
+16/08/05,Stamm,"Brenkhausen, St. Johannes",dpsg-brenkhausen.de,Strato GmbH,WordPress
+16/08/08,Stamm,Höxter-Ottbergen,dpsg-ottbergen.de,Host Europe GmbH,Unknown
+17/00/00,Diözese,Diözesanverband Passau,dpsg-passau.de,Neue Medien Muennich GmbH,WordPress
+17/01/01,Stamm,Hengersberg,-,,
+17/01/02,Stamm,DPSG Fürstenstein-Nammering,-,,
+17/01/03,Stamm,"Salzweg, Sophie Scholl",pfadfinder-salzweg.de,Neue Medien Muennich GmbH,WordPress
+17/02/01,Stamm,Neuötting,dpsg-neuoetting.de,Hetzner Online GmbH,Unknown
+17/02/03,Stamm,Winhöring,-,,
+17/04/01,Stamm,Hauzenberg,-,,
+17/04/02,Stamm,"Freyung, St. Gunther",-,,
+17/04/03,Stamm,Tittling,-,,
+17/04/04,Stamm,Untergriesbach,dpsg-untergriesbach.de,Host Europe GmbH,Unknown
+17/05/01,Stamm,Kirchdorf,pfadfinder-kirchdorf.de,Neue Medien Muennich GmbH,Joomla
+17/05/02,Stamm,Pocking,pfadfinder-pocking.de,Cyberse GmbH & Co. KG,WordPress
+17/05/03,Stamm,Pfarrkirchen,dpsg-pfarrkirchen.de,dogado GmbH,Joomla
+17/05/04,Stamm,Vilshofen,dpsg-vilshofen.de,One.com A/S,One.com Web Editor
+17/05/05,Stamm,"Rotthalmünster, St. Sebastian",pfadfinderstamm.de,Neue Medien Muennich GmbH,Unknown
+17/05/08,Siedlung,Fürstenzell,-,,
+17/06/01,Stamm,Frauenau,-,,
+17/07/01,Stamm,Grafenau,dpsg-grafenau.de,-,NameResolutionError
+18/00/00,Diözese,Diözesanverband Regensburg,dpsg-regensburg.de,Neue Medien Muennich GmbH,WordPress
+18/01/00,Bezirk,FichtelBezirk,dpsg-fichtelbezirk.de,Strato GmbH,WordPress
+18/01/01,Stamm,"Speichersdorf, Kirchenlaibach",dpsg-speichersdorf.de,EVANZO e-commerce GmbH,WordPress
+18/01/02,Stamm,Kulmain,dpsg-kulmain.de,Strato GmbH,WordPress
+18/01/03,Stamm,Mitterteich,dpsg-mitterteich.de,"Cloudflare, Inc.",HTTP Status 403
+18/01/04,Stamm,Marktredwitz,dpsg-marktredwitz.de,dogado GmbH,HTTP Status 403
+18/01/05,Stamm,Tirschenreuth,dpsg-tirschenreuth.de,Neue Medien Muennich GmbH,Unknown
+18/02/00,Bezirk,BurgenBezirk,dpsg-burgenbezirk.de,IONOS SE,HTTP Status 404
+18/02/01,Stamm,Eschenbach,pfadfinder-eschenbach.de,Strato GmbH,WordPress
+18/02/02,Stamm,"Weiden, Thomas Morus",pfadfinder-weiden.com,Neue Medien Muennich GmbH,WordPress
+18/02/03,Stamm,"Neuhaus, Don Bosco",pfadfinder-neuhaus.de,Strato GmbH,WordPress
+18/02/08,Stamm,"Windischeschenbach, St. Georg",pfadfinder-windischeschenbach.de,united-domains GmbH,Unknown
+18/03/00,Bezirk,HüttenBezirk,-,,
+18/03/01,Stamm,"Amberg, St. Georg",dpsg-amberg.de,netcup GmbH,WordPress
+18/03/02,Stamm,"Ammersricht, St. Konrad",dpsg-ammersricht.de,Neue Medien Muennich GmbH,WordPress
+18/03/05,Stamm,Schnaittenbach,dpsg-schnaittenbach.de,Neue Medien Muennich GmbH,Unknown
+18/03/06,Stamm,Sulzbach-Rosenberg,pfadfinder-suro.de,ecotel communication ag,Unknown
+18/03/07,Stamm,Poppenricht-Michaelspoppenricht,-,,
+18/03/08,Stamm,Ensdorf,dpsg-ensdorf.de,ecotel communication ag,Xara Web Designer
+18/05/00,Bezirk,Bezirk Niederbayern,-,,
+18/05/01,Stamm,Puchhausen-Hüttenkofen,-,,
+18/05/03,Stamm,"Straßkirchen, Impeesa",pfadfinder-strasskirchen.de,Strato GmbH,WordPress
+18/05/04,Stamm,"Landshut, Angelo Roncalli",-,,
+18/05/05,Stamm,"Landshut, St. Pius",-,,
+18/05/06,Stamm,DPSG Stamm Viechtach,-,,
+18/05/07,Stamm,"Landshut, St. Wolfgang",-,,
+18/05/09,Stamm,Hohenthann,-,,
+18/05/13,Siedlung,Vilsbiburg,-,,
+18/06/00,Bezirk,DomBezirk,dombezirk.de,Hetzner Online GmbH,WordPress
+18/06/01,Stamm,"Obertraubling, Trubilo",dpsg-obertraubling.com,"Cloudflare, Inc.",HTTP Status 403
+18/06/03,Stamm,Regensburg-Ziegetsdorf,pfadis-z.de,dogado GmbH,Unknown
+18/06/04,Stamm,"Regensburg-Kupfmühl, St. Wolfgang",dpsg-stwolfgang.de,Hetzner Online GmbH,WordPress
+18/06/05,Stamm,"Regensburg, St. Konrad",dpsg-st-konrad.de,Nawork Internet Informationssysteme GmbH,Unknown
+18/06/06,Stamm,Sinzing,dpsgsinzing.de,Microsoft Corporation,WordPress
+18/06/07,Stamm,"Regensburg, Herz Marien",dpsg-herz-marien.de,"Cloudflare, Inc.",HTTP Status 403
+18/06/08,Stamm,"Regensburg-Steinweg, Hl. Dreifaltigkeit",pfadfinder-steinweg.de,Mittwald CM Service GmbH und Co. KG,Joomla
+18/06/11,Stamm,Wenzenbach,pfadfinder-wenzenbach.de,Hetzner Online GmbH,WordPress
+18/06/12,Stamm,Regensburg-Schwabelweis,dpsg-schwabelweis.de,Neue Medien Muennich GmbH,WordPress
+18/06/14,Stamm,"Hainsacker, Geschwister Scholl",pfadfinder-hainsacker.de,Host Europe GmbH,WordPress
+18/06/15,Stamm,Regensburg-Burgweinting,-,,
+18/06/16,Stamm,Pettendorf,-,,
+18/07/00,Bezirk,JuraBezirk,jurabezirk.de,dogado GmbH,WordPress
+18/07/02,Stamm,Parsberg,dpsg-parsberg.de,netcup GmbH,WordPress
+18/07/03,Stamm,Kelheim,dpsg-kelheim.de,manitu GmbH,WordPress
+18/07/04,Stamm,"Saal, Christ König",pfadfinder-saal.de,IONOS SE,HTTP Status 404
+18/07/06,Stamm,Abensberg-Offenstetten,dpsg-offenstetten.de,Hetzner Online GmbH,HTTP Status 404
+18/07/07,Stamm,Stamm Teugn,pfadfinder-teugn.de,dogado GmbH,Joomla
+19/00/00,Diözese,Diözesanverband Rottenburg-Stuttgart,dpsg.info,Hetzner Online GmbH,WordPress
+19/01/00,Bezirk,Bezirk Stuttgart,dpsg-stuttgart.de,Host Europe GmbH,Unknown
+19/01/01,Stamm,"Stuttgart-Obertürkheim, St. Franziskus",dpsg-obertuerkheim.de,Host Europe GmbH,WordPress
+19/01/03,Stamm,"Stuttgart-Möhringen, St. Hedwig",-,,
+19/01/04,Stamm,Stuttgart-Hofen,dpsg-hofen.de,webgo GmbH,WordPress
+19/01/05,Stamm,"Oeffingen, Chico Mendes",pfadfinder-oeffingen.de,IONOS SE,Joomla
+19/01/09,Stamm,Stuttgart-Zuffenhausen,-,,
+19/01/12,Stamm,"Leonberg, St. Johannes d. T.",dpsg-leonberg.de,Strato GmbH,WordPress
+19/02/00,Bezirk,Bezirk Neckar/Filder,bezirk-neckar-filder.de,netcup GmbH,WordPress
+19/02/01,Stamm,"Esslingen, Wikinger",dpsg-esslingen.de,dogado GmbH,Unknown
+19/02/06,Stamm,"Neuhausen, Petrus & Paulus",dpsg-neuhausen.de,Neue Medien Muennich GmbH,Unknown
+19/02/07,Stamm,Corvus Nürtingen,dpsg-nuertingen.de,netcup GmbH,WordPress
+19/02/09,Stamm,Wernau/Neckar,dpsg-wernau.de,Strato GmbH,Unknown
+19/03/00,Bezirk,Bezirk Neckar,dpsg-neckar.de,Host Europe GmbH,WordPress
+19/03/02,Stamm,"Herrenberg, St. Josef",dpsg-herrenberg.de,Neue Medien Muennich GmbH,WordPress
+19/03/03,Stamm,Holzgerlingen,dpsg-holzgerlingen.de,Mittwald CM Service GmbH und Co. KG,WordPress
+19/03/04,Stamm,Eningen,dpsg-eningen.de,Strato GmbH,WordPress
+19/03/05,Stamm,Reutlingen-Nord,dpsg-rt-nord.de,manitu GmbH,Unknown
+19/03/09,Stamm,Tübingen,dpsg-tuebingen.de,Strato GmbH,Unknown
+19/03/10,Stamm,"Frommern, St. Paulus",dpsg-frommern.de,Host Europe GmbH,TYPO3
+19/03/11,Stamm,Böblingen,dpsg-bb.de,UD Media GmbH,WordPress
+19/03/13,Stamm,Reutlingen-Mitte,dpsg-rt-mitte.de,Hetzner Online GmbH,WordPress
+19/03/15,Stamm,St. Peter & Paul Weil der Stadt,weiler-pfadis.de,netcup GmbH,WordPress
+19/03/16,Stamm,Reutlingen Süd,dpsg-rt-sued.de,SpaceNet AG,WordPress
+19/03/20,Stamm,"Kiebingen, Heilig Geist",dpsg-kiebingen.de,uvensys GmbH,WordPress
+19/03/21,Stamm,Ammerbuch-Entringen,dpsg-entringen.de,Strato GmbH,Contao Open Source CMS
+19/04/00,Bezirk,Bezirk Hohenstaufen,dpsg-hohenstaufen.de,IONOS SE,Unknown
+19/04/01,Stamm,Stamm Hl. Kreuz Deggingen,dpsg-deggingen.de,Strato GmbH,Unknown
+19/04/02,Stamm,"Donzdorf, St. Martin",-,,
+19/04/05,Stamm,"Donzdorf-Winzingen, St. Bernhard",-,,
+19/04/06,Stamm,Eislingen,dpsg-eislingen.de,IONOS SE,TYPO3
+19/04/07,Stamm,"Göppingen, St. Maria",dpsg-gp.de,IONOS SE,WordPress
+19/04/08,Stamm,"Salach, St. Margaretha",dpsg-salach.de,Hetzner Online GmbH,Unknown
+19/04/11,Stamm,"Schwäbisch-Gmünd, Hl. Kreuz",dpsg-schwaebischgmuend.de,Strato GmbH,RapidWeaver
+19/06/00,Bezirk,Bezirk Oberland,-,,
+19/06/01,Stamm,Carpe Diem Ehingen,pfadfinder-ehingen.de,-,NameResolutionError
+19/06/02,Stamm,"Biberach, Weiße Rose",dpsg-biberach.de,"Cloudflare, Inc.",HTTP Status 403
+19/06/03,Stamm,"Ravensburg, Impeesa",dpsg-rv.de,Strato GmbH,WordPress
+19/06/05,Stamm,"Friedrichshafen, Buchhorn",dpsg-fn.de,Neue Medien Muennich GmbH,Unknown
+19/06/06,Stamm,"Laupheim, Kon - Tiki",kon-tiki.de,"Amazon.com, Inc.",Unknown
+19/06/07,Stamm,"Schelklingen-Hütten, Guter Hirte",-,,
+19/06/09,Stamm,"Wolfegg, Loreto",dpsg-wolfegg.com,Hostinger International Limited,WordPress
+19/06/11,Stamm,Ennetach,-,,
+19/06/12,Stamm,"Sinningen, St. Michael",-,,
+19/06/14,Stamm,"Weingarten, Welfen",-,,
+19/07/00,Bezirk,Bezirk Schwarzwald-Donau,dpsg-schwarzwald-donau.de,Strato GmbH,WordPress
+19/07/01,Stamm,"Balingen, Hl. Geist",dpsg-balingen.de,IONOS SE,WordPress
+19/07/02,Stamm,"Rottweil, J. F. Kennedy",dpsg-rottweil.de,OVH SAS,Unknown
+19/07/03,Stamm,Schramberg,dpsg-schramberg.de,IONOS SE,WordPress
+19/07/06,Stamm,"Tuttlingen, Tutilo",dpsgtut.de,Hetzner Online GmbH,WordPress
+19/07/08,Stamm,"Weigheim, St. Otmar",-,,
+19/08/00,Bezirk,Bezirk Ostalb,dpsgostalb.de,Strato GmbH,Unknown
+19/08/01,Stamm,"Aalen, Salvator",dpsg-aalen.de,Host Europe GmbH,WordPress
+19/08/02,Stamm,DPSG Bopfingen,dpsg-bopfingen.de,Strato GmbH,Unknown
+19/08/03,Stamm,"Ellwangen, St. Veit",dpsg-ellwangen.de,webgo GmbH,WordPress
+19/08/04,Stamm,"Giengen, St. Michael",dpsg-giengen.de,Strato GmbH,WordPress
+19/08/06,Stamm,"Heubach, St. Bernhard",heubacher-pfadfinder.de,Neue Medien Muennich GmbH,WordPress
+19/08/08,Stamm,"Herbrechtingen, Romero",dpsg-herbrechtingen.de,IONOS SE,HTTP Status 404
+19/08/21,Stamm,Ulm-Nord,dpsg-ulm-nord.de,Wix.com Ltd.,Wix.com Website Builder
+19/08/23,Stamm,Ulm-Söflingen,pfadfinder-ulm.de,Neue Medien Muennich GmbH,WordPress
+19/08/24,Stamm,Rammingen,dpsg-rammingen.de,IONOS SE,Unknown
+19/08/25,Stamm,Saint-Exupery Ulm,dpsg-ulm.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+19/09/00,Bezirk,Bezirk Unterland,dpsg-unterland.de,PlusServer GmbH,WordPress
+19/09/01,Stamm,Bietigheim-Bissingen,dpsg-bibi.de,IONOS SE,HTTP Status 400
+19/09/02,Stamm,"Heilbronn-Böcklingen, St. Kilian",-,,
+19/09/03,Stamm,"Erlenbach, St. Martinus",dpsg-erlenbach.de,Neue Medien Muennich GmbH,HTTP Status 400
+19/09/04,Stamm,"Ludwigsburg-Poppenweiler, Falke",dpsg-stamm-falke.de,Neue Medien Muennich GmbH,Unknown
+19/09/05,Stamm,"Kornwestheim, St. Martin",-,,
+19/09/06,Stamm,"Ludwigsburg, Silberschwäne",silberschwaene.de,Strato GmbH,WordPress
+19/09/07,Stamm,"Mühlacker, Herz-Jesu",dpsg-muehlacker.de,IONOS SE,WordPress
+19/09/08,Stamm,St. Dionys Neckarsulm,dpsg-neckarsulm.de,Strato GmbH,WordPress
+19/09/09,Stamm,"Brackenheim, Theodor Heuss",stammtheodorheuss.de,"Cloudflare, Inc.",HTTP Status 403
+19/09/11,Stamm,"Heilbronn, Mahatma Ghandi",pfadfinder-heilbronn.de,Combell NV,WordPress
+19/09/12,Stamm,Oedheim,dpsg-oedheim.de,IONOS SE,Unknown
+19/09/15,Stamm,"Bad Wimpfen, Fähnlein Fieselschwein",dpsg-badwimpfen.de,Hetzner Online GmbH,WordPress
+19/09/18,Siedlung,Heilbronn - Über dem Salzgrund,-,,
+19/11/00,Bezirk,Bezirk Hohenlohe,dpsg-bezirk-hohenlohe.de,Neue Medien Muennich GmbH,WordPress
+19/11/01,Stamm,"Bad Mergentheim, Hoch- und Deutschmeister",dpsg-badmergentheim.de,Hetzner Online GmbH,WordPress
+19/11/02,Stamm,Künzelsau,dpsg-kuen.de,Neue Medien Muennich GmbH,WordPress
+19/11/03,Stamm,"Öhringen, Abenteuer",dpsg-oehringen.de,Neue Medien Muennich GmbH,WordPress
+19/11/07,Stamm,Santiago Schrozberg,dpsg-schrozberg.de,Neue Medien Muennich GmbH,WordPress
+19/11/08,Stamm,Ingelfingen,dpsg-ingelfingen.de,Neue Medien Muennich GmbH,WordPress
+19/11/09,Stamm,Bretzfeld Weiße Rose,dpsg-bretzfeld.de,Neue Medien Muennich GmbH,Joomla
+20/00/00,Diözese,Diözesanverband Speyer,dpsg-speyer.de,Hetzner Online GmbH,WordPress
+20/02/00,Bezirk,Bezirk Trifels,-,,
+20/02/01,Stamm,"Hauenstein, Christkönig",dpsg-hauenstein.de,IONOS SE,Unknown
+20/02/02,Stamm,Waldfischbach-Burgalben,dpsg-wfb.de,webgo GmbH,WordPress
+20/02/03,Stamm,"Rodalben, Sel. Bernhard",pfadis-rodalben.de,IONOS SE,HTTP Status 403
+20/02/04,Stamm,"Kaiserslautern, Fridtjof Nansen",dpsg-kl.de,manitu GmbH,Jekyll
+20/02/08,Stamm,"Rodalben, St. Josef",-,,
+20/02/09,Siedlung,Ludwigswinkel,-,,
+20/02/10,Stamm,Zweibrücken Stamm Heilige Elisabeth,dpsg-zw.de,Hetzner Online GmbH,HTTP Status 500
+20/03/00,Bezirk,Bezirk Ludwigshafen,dpsg-lu.de,PFALZKOM GmbH,WordPress
+20/03/01,Stamm,"Frankenthal, St. Jakobus-Pilgerpfad",dpsg-frankenthal.com,IONOS SE,WordPress
+20/03/02,Stamm,Otterstadt,dpsg-otterstadt.de,IONOS SE,Unknown
+20/03/03,Stamm,"Dannstadt-Schauernh., St. Michael",-,,
+20/03/06,Stamm,"Ludwigshafen, Herz Jesu",-,,
+20/03/07,Stamm,"Ludwigshafen-Gartenstadt, Phoenix",-,,
+20/03/08,Stamm,"Ludwigshafen-Pfingstweide, St. Albert",dpsg-st-albert.de,IONOS SE,WordPress
+20/03/09,Stamm,"Altrip, Rheingold",dpsg-altrip.de,IONOS SE,Unknown
+20/03/11,Stamm,"Ludwigshafen-Friesenheim, St. Josef",-,,
+20/03/13,Stamm,"Bobenheim, St. Laurentius",dpsg-bobenheim-roxheim.de,Strato GmbH,HTTP Status 400
+20/03/14,Stamm,"Maxdorf/Birkenheide, Impeesa",dpsg-maxdorf.de,manitu GmbH,WordPress
+20/03/18,Stamm,"Ludwigshafen-Oggersh., Christ König",pfadfinder-oggersheim.de,Strato GmbH,Unknown
+20/04/00,Bezirk,Bezirk Saarpfalz,-,,
+20/04/01,Stamm,St. Ingbert-Rohrbach,dpsg-rohrbach-saar.de,IONOS SE,Contao Open Source CMS
+20/04/02,Stamm,"St. Ingbert, Hassel",pfadfinder-hassel.de,uvensys GmbH,Unknown
+20/04/05,Stamm,"Mandelbachtal/Heckendalh., St. Josef",dpsg-heckendalheim.de,"Cloudflare, Inc.",HTTP Status 403
+20/04/06,Stamm,St. Ingbert-Mitte,-,,
+20/04/07,Stamm,"Homburg-Jägersb., St. Josef",jaegersburger-pfadfinder.de,IONOS SE,WordPress
+20/04/10,Stamm,DPSG Johanneum,dpsg-johanneum.de,manitu GmbH,WordPress
+20/04/11,Stamm,Niederwürzbach,dpsg-niederwürzbach.de,OVH SAS,SimDif Website Builder V2.02.10902
+20/04/13,Stamm,DPSG Camino Homburg,dpsg-camino-homburg.de,IONOS SE,IONOS MyWebsite
+20/05/00,Bezirk,Bezirk Haardt,-,,
+20/05/01,Stamm,"Edenkoben/Hainfeld, Hedin",dpsg-hainfeld.de,IONOS SE,IONOS MyWebsite
+20/05/02,Stamm,"Herxheim, Amundsen",dpsg-herxheim.de,IONOS SE,IONOS MyWebsite
+20/05/03,Stamm,"Landau, St. Albert",dpsg-landau.de,dogado GmbH,WordPress
+20/05/04,Stamm,"Neustadt, Guy de Larigaudie",dpsg-nw.de,Strato GmbH,WordPress
+20/05/06,Stamm,"Neustadt-Lachen, Franz von Assisi",dpsg-lsp.de,Deutsche Telekom AG,Unknown
+20/05/07,Stamm,"Winden, Marco Polo",-,,
+20/05/09,Stamm,"Rülzheim, St. Diethardt",pfadfinder-ruelzheim.de,"Cloudflare, Inc.",HTTP Status 526
+20/05/10,Stamm,Lambrecht,-,,
+20/05/14,Stamm,"Speyer, Dompfarrei",dpsg-speyer-dom.de,Neue Medien Muennich GmbH,WordPress
+20/05/15,Stamm,"Speyer, St. Konrad",dpsg-stkonrad.de,dogado GmbH,WordPress
+21/00/00,Diözese,Diözesanverband Trier,dpsg-trier.de,netcup GmbH,WordPress
+21/01/00,Bezirk,Bezirk Koblenz,dpsg-koblenz.de,Strato GmbH,WordPress
+21/01/04,Stamm,Kaltenengers,-,,
+21/01/06,Stamm,Urmitz,-,,
+21/01/07,Stamm,Koblenz-Castell-Niederberg,-,,
+21/01/08,Stamm,"Koblenz-Südliche Vorstadt, St. Josef",dpsg-sankt-josef.de,Strato GmbH,WordPress
+21/01/09,Stamm,"Koblenz-Goldgrube, St. Franziskus",dpsg-frisko.de,Strato GmbH,WordPress
+21/01/10,Stamm,"Koblenz-Güls, Seepfadfinder",seepfadfinder-koblenz.de,EVANZO e-commerce GmbH,WordPress
+21/01/11,Stamm,"Rhens, St. Theresia",dpsg-rhens.de,IONOS SE,WordPress
+21/01/14,Stamm,"Bassenheim, St. Martin",pfadfinder-bassenheim.de,Hetzner Online GmbH,WordPress
+21/01/16,Stamm,Koblenz-Asterstein,dpsg-asterstein.de,Strato GmbH,Unknown
+21/01/17,Stamm,"Münstermaifeld, Maifeld-Scouts",maifeld-scouts.de,Strato GmbH,WordPress
+21/02/00,Bezirk,Bezirk Mittelmosel,-,,
+21/02/01,Stamm,"Bernkastel-Kues, Moselfranken",-,,
+21/02/02,Stamm,"Bernkastel-Kues, Westgoten",westgoten.de,Neue Medien Muennich GmbH,WordPress
+21/02/05,Stamm,"Rachtig, Deutschherren",pfadfinder-rachtig.de,IONOS SE,WordPress
+21/02/07,Stamm,Kaisersesch,dpsg-kaisersesch.de,dogado GmbH,Unknown
+21/02/12,Stamm,"Wittlich, St. Rochus",-,,
+21/03/00,Bezirk,Bezirk Rhein-Hunsrück-Nahe,-,,
+21/03/01,Stamm,"Kirn-Sulzbach, St. Michael",-,,
+21/03/03,Stamm,"Bad Kreuznach, Franziskus",dpsg-kh.de,Strato GmbH,WordPress
+21/03/04,Stamm,"Rheinböllen, Soonwald",dpsg-rheinboellen.de,IONOS SE,Microsoft FrontPage 5.0
+21/03/05,Stamm,"Waldalgesheim, Alagastesheim",pfadfinder-waldalgesheim.de,IONOS SE,WordPress
+21/03/06,Stamm,Sohren,-,,
+21/03/07,Stamm,St. Rupertus Bingerbrück,dpsg-bingerbrueck.de,webhoster.de AG,Unknown
+21/04/00,Bezirk,Bezirk Rhein-Wied,dpsg-rhein-wied.de,TelemaxX Telekommunikation GmbH,WordPress
+21/04/01,Stamm,"Neuwied-Oberbieber, St. Bonifatius",pfadfinder-oberbieber.de,"Cloudflare, Inc.",WordPress
+21/04/02,Stamm,Kurtscheid,dpsg-kurtscheid.de,dogado GmbH,WordPress
+21/04/03,Stamm,"Neuwied-Feldkirchen, St. Michael",dpsg-st-michael.de,IONOS SE,WordPress
+21/04/04,Stamm,DPSG Neuwied-City,dpsg-neuwied-city.de,HL komm Telekommunikations GmbH,Unknown
+21/04/06,Stamm,Rheinbrohl,-,,
+21/04/08,Siedlung,Bad Hönningen,-,,
+21/04/12,Stamm,"Neuwied-Engers, St. Martin",pfadfinder-engers.de,SpaceNet AG,WordPress
+21/04/13,Stamm,"Neuwied, Heimbach-Weis",dpsg-heimbach-weis.de,OVH SAS,WordPress
+21/04/14,Stamm,Neuwied-Gladbach,dpsg-gladbach.de,netcup GmbH,WordPress
+21/04/17,Stamm,"Leutesdorf, Marcel Callo",-,,
+21/05/00,Bezirk,Bezirk Saarbrücken,dpsg-saarbruecken.de,netcup GmbH,WordPress
+21/05/02,Stamm,"Dudweiler, St. Bonifatius",-,,
+21/05/05,Stamm,"Köllerbach, Herz Jesu",dpsg-koellerbach.de,one4vision GmbH,Unknown
+21/05/06,Stamm,"Friedrichsthal, Wikinger",dpsg-friedrichsthal.de,one4vision GmbH,WordPress
+21/05/07,Stamm,"Klarenthal, St. Bartholomäus",dpsg-klarenthal.de,Strato GmbH,WordPress
+21/05/11,Stamm,"Ludweiler, Warndt-Scouts",dpsg-warndt-scouts.de,one4vision GmbH,TYPO3
+21/05/12,Stamm,"Saarbrücken, Brebach",dpsgbrebach.de,EVANZO e-commerce GmbH,DokuWiki
+21/06/00,Bezirk,Bezirk Saar-Hochwald,-,,
+21/06/01,Stamm,"DPSG Roden, Stamm Graf Folke Bernadotte Saarlouis-Roden",dpsg-roden.de,netcup GmbH,WordPress
+21/06/02,Siedlung,"Perl, St. Gervasius & Protasius",-,,
+21/06/04,Stamm,"Rehlingen-Siersburg, St. Nikolaus",dpsg-rehlingen.de,"Cloudflare, Inc.",HTTP Status 403
+21/06/07,Stamm,DPSG Saarlouis Stamm Beaumarais,dpsg-beaumarais.de,Hetzner Online GmbH,HTTP Status 404
+21/06/08,Stamm,"Hülzweiler, St. Laurentius",dpsg-huelzweiler.de,Mittwald CM Service GmbH und Co. KG,TYPO3
+21/07/00,Bezirk,Bezirk Schaumberg-Blies,-,,
+21/07/02,Stamm,"Illingen, St. Stephan, Die Adler",die-adler-illingen.de,Hetzner Online GmbH,HTTP Status 404
+21/07/04,Stamm,Hasborn,dpsg-hasborn.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,WordPress
+21/07/12,Stamm,"Neunkirchen, St. Pius",-,,
+21/08/00,Bezirk,Bezirk Sieg,dpsg-bezirk-sieg.de,Strato GmbH,Unknown
+21/08/02,Stamm,"Kirchen, St. Michael",-,,
+21/08/03,Stamm,Niederfischbach,-,,
+21/08/04,Stamm,"Betzdorf, St. Ignatius",-,,
+21/08/05,Stamm,Niederschelderhütte/Birken,-,,
+21/09/00,Bezirk,Bezirk Trier,dpsg-bezirk-trier.de,IONOS SE,WordPress
+21/09/02,Stamm,"Trier-Euren, Helena/Tempelherren",dpsg-tempelherren.de,IONOS SE,WordPress
+21/09/03,Stamm,"Trier-Pfalzel, Pankratius",dpsg-pfalzel.de,Neue Medien Muennich GmbH,Unknown
+21/09/06,Stamm,"Saarburg-Beurig, St. Franziskus",-,,
+21/09/08,Siedlung,"Trier-Tarforst, Centarburs",dpsg-centarburs-trier.de,IONOS SE,WordPress
+21/09/10,Stamm,"Trier-Heiligkreuz, Santa Cruz",dpsg-santacruz-trier.de,IONOS SE,WordPress
+21/09/13,Stamm,"Föhren, Don Bosco",-,,
+21/10/00,Bezirk,Bezirk Eifel / Ahr,dpsg-eifel-ahr.de,dogado GmbH,Unknown
+21/10/01,Stamm,Adenau,dpsg-adenau.de,Hetzner Online GmbH,WordPress
+21/10/03,Stamm,"Grafschaft Ringen, G. Galilei",dpsg-ringen.net,dogado GmbH,Unknown
+21/10/04,Stamm,"Andernach, St. Michael",dpsg-andernach.de,Nawork Internet Informationssysteme GmbH,WordPress
+21/10/05,Stamm,Balu Hillesheim,stamm-balu.de,Neue Medien Muennich GmbH,WordPress
+21/10/06,Stamm,"Weißenthurm/Kettig, Feuer und Flamme",dpsg-feuerundflamme.de,Neue Medien Muennich GmbH,NameResolutionError
+21/10/07,Stamm,"Kruft, Dionysius",-,,
+21/10/10,Stamm,Saffig Pellenzbande,-,,
+21/10/11,Stamm,"Andernach, Am Nastberg Eich",-,,
+22/00/00,Diözese,Diözesanverband Würzburg,dpsg-wuerzburg.de,netcup GmbH,TYPO3
+22/01/00,Bezirk,Bezirk Untermain,-,,
+22/01/01,Stamm,"Aschaffenburg-Innenstadt, Johannisburg",stamm-johannisburg.de,netcup GmbH,Unknown
+22/01/02,Stamm,"Mainaschaff, Ascapha",pfadfinderhaus.de,Strato GmbH,WordPress
+22/01/03,Stamm,"Stockstadt, Mauritius",dpsg-stockstadt.de,IONOS SE,Unknown
+22/01/04,Stamm,"Aschaffenburg-Gailbach, Guy de Larigaudie e.V.",dpsg-gailbach.de,Strato GmbH,Unknown
+22/01/05,Stamm,"Großwallstadt, Impeesa",-,,
+22/01/08,Stamm,Aschaffenburg/Schweinheim,dpsg-schweinheim.de,Host Europe GmbH,gpEasy CMS
+22/01/09,Stamm,"Heimbuchenthal, Schwarzkittel",dpsg-heimbuchenthal.de,Hostinger International Limited,WordPress
+22/01/10,Stamm,Albstadt,stamm-albstadt.de,Hetzner Online GmbH,Unknown
+22/01/11,Stamm,"Mönchberg, Aubachtal",-,,
+22/01/12,Stamm,"Elsenfeld, Germania",stammgermania.de,Neue Medien Muennich GmbH,WordPress
+22/01/13,Stamm,Alzenau,dpsg-alzenau.de,One.com A/S,Unknown
+22/01/14,Stamm,Großostheim,pfadfinder-grossostheim.de,Strato GmbH,Unknown
+22/03/00,Bezirk,Bezirk St. Kilian,bezirk-st-kilian.de,Strato GmbH,TYPO3
+22/03/04,Stamm,"Würzburg-Lengfeld, St. Burkard",pfadfinder-lengfeld.de,Host Europe GmbH,HTTP Status 400
+22/03/05,Stamm,"Würzburg-Sanderau, Fred Joseph",fred-joseph.de,IONOS SE,IONOS MyWebsite
+22/03/06,Stamm,"Würzburg-Heidingsfeld, Tilly",-,,
+22/03/07,Stamm,"Würzburg-Rottenbauer, Wolfskeel",stamm-wolfskeel.de,Host Europe GmbH,WordPress
+22/03/09,Stamm,"Würzburg-Frauenland, Greiffenclau",greiffenclau.de,TelemaxX Telekommunikation GmbH,WordPress
+22/05/00,Bezirk,Bezirk Genesis Nord,dpsg-bezirk-geno.de,netcup GmbH,WordPress
+22/05/01,Stamm,"Gerolzhofen, Gralsritter",-,,
+22/05/03,Stamm,"Euerbach, St. Michael",-,,
+22/05/04,Stamm,"Schweinfurt, Tokwon",-,,
+22/05/05,Stamm,"Niederwerrn, von Münster",dpsg-niederwerrn.de,Strato GmbH,WordPress
+22/05/06,Stamm,"Mellrichstadt, Martin Pollich",-,,
+22/05/08,Stamm,Ostheim,-,,
+22/05/09,Stamm,"Haßfurt, Lichtenstein",dpsg-hassfurt.de,Hetzner Online GmbH,WordPress
+22/05/12,Stamm,"Münnerstadt, Kreuzritter",pfadfinder-muennerstadt.de,Strato GmbH,Unknown
+22/05/13,Stamm,"Bad Kissingen, Henneberg",pfadfinder-badkissingen.de,Michael Rottmann trading as Pixel X e.K.,WordPress
+22/05/15,Stamm,Nordheim/Rhön,-,,
+22/05/16,Stamm,Stockheim,-,,
+22/05/18,Stamm,"Oberelsbach, Buchonia",dpsg-buchonia.de,dogado GmbH,WordPress
+22/08/00,Bezirk,Bezirk Main-Spessart,-,,
+22/08/02,Stamm,"Lohr-Sackenbach, Bonifatius",-,,
+22/08/03,Stamm,DPSG Stamm Roncalli Partenstein,-,,
+22/08/06,Stamm,"Lohr-Sendelbach, St. Josef",dpsg-sendelbach.de,IONOS SE,WordPress
+22/10/00,Bezirk,Bezirk Mainfranken,-,,
+22/10/01,Stamm,"Randersacker, St. Stephanus",-,,
+22/10/02,Stamm,"Ochsenfurt, Konradin",-,,
+22/10/05,Stamm,"Rimpar,Tilman Riemenschneider",dpsg-rimpar.de,Host Europe GmbH,WordPress
+22/10/06,Stamm,Reichenberg/Hattenhausen,stamm-hattenhausen.de,uvensys GmbH,Unknown
+22/10/09,Stamm,Stadtschwarzach,dpsg-schwarzach.de,IONOS SE,MyWebsite NOW
+22/10/11,Stamm,"Leinach, Kardinal Döpfner",dpsg-leinach.de,IONOS SE,WordPress
+22/10/12,Stamm,"Eisingen, St. Nikolaus",-,,
+22/10/13,Stamm,Wertheim,-,,
+31/00/00,Diözese,Diözesanverband Magdeburg,dpsg-magdeburg.de,IONOS SE,WordPress
+31/11/02,Stamm,"Magdeburg, Unser lieben Frauen",dpsg-md.de,dogado GmbH,WordPress
+31/15/01,Stamm,"Sangerhausen-Altstadt, St. Jutta",-,,
+31/16/01,Stamm,"Badersleben, Sankt Martin e.V.",dpsg-badersleben.de,Hetzner Online GmbH,Unknown
+31/16/02,Stamm,"Blankenburg, St. Josef",dpsg-blankenburg.de,Strato GmbH,WordPress
+31/17/05,Stamm,"Halle (Saale), Phönix",dpsg-halle.de,"DigitalOcean, LLC",Hugo
+31/17/06,Siedlung,Burgenlandfalken Weißenfels,-,,
+31/19/02,Stamm,Drachentöter Dresden,dpsg-dresden.de,Strato GmbH,Unknown
+31/19/03,Stamm,"Leipzig, Tilia",dpsg-leipzig.de,Strato GmbH,WordPress
+32/00/00,Diözese,Diözesanverband Erfurt,dpsg-thueringen.de,webgo GmbH,WordPress
+32/00/01,Stamm,"Jena, St. Michael",-,,
+32/60/03,Stamm,"Uder, St. Jakobus",-,,
+32/60/04,Stamm,"Heiligenstadt, St. Aegidien",-,,
+32/60/08,Stamm,"Erfurt, St. Elisabeth",pfadfinder-erfurt.de,webgo GmbH,WordPress
+32/60/09,Stamm,"Weimar, Marcel Callo",-,,
+32/60/13,Stamm,"Niederorschel, St. Marien",-,,
+33/00/00,Diözese,Diözesanverband Hamburg,dpsg-hamburg.de,Neue Medien Muennich GmbH,WordPress
+33/00/01,Siedlung,Kiel Damiano,dpsg-kiel.de,Neue Medien Muennich GmbH,WordPress
+33/00/02,Stamm,"Hamburg-Eimsbüttel, Wilder Weiher",dpsg-eimsbuettel.de,UD Media GmbH,WordPress
+33/00/03,Siedlung,"Glinde, GerLinde",dpsg-glinde.de,Neue Medien Muennich GmbH,WordPress
+33/02/01,Stamm,"Hamburg-Rahlstedt, Mutter Teresa",dpsg-rahlstedt.de,Neue Medien Muennich GmbH,WordPress
+33/02/02,Stamm,"Hamburg-Hamm, Charles de Foucauld",dpsg-hamburg-hamm.de,IONOS SE,WordPress
+33/02/03,Stamm,"Hamburg-Farmsen, St. Ansgar",dpsg-farmsen.de,comtrance service GmbH,HTTP Status 401
+33/02/04,Stamm,"Hamburg-Blankenese, Jacques Marquette",dpsg-blankenese.de,Strato GmbH,Unknown
+33/02/05,Stamm,"Hamburg-Harburg, Kardinal Graf  v. Galen",dpsg-harburg.de,dogado GmbH,WordPress
+33/02/06,Stamm,"Hamburg-Neugraben, Störtebeker",dpsg-stoertebeker.de,MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,HTTP Status 500
+33/02/08,Stamm,"Hamburg-Poppenbüttel, Don Bosco",stamm-donbosco.de,Neue Medien Muennich GmbH,WordPress
+33/02/10,Stamm,"Hamburg-Volksdorf, St. Martin",pfadfinder-volksdorf.de,"Cloudflare, Inc.",WordPress
+33/02/12,Stamm,"Ahrensburg, Camilo Torres",dpsg-ahrensburg.de,"Cloudflare, Inc.",Hugo
+33/02/13,Stamm,"Norderstedt, St. Hedwig",dpsg-norderstedt.de,Strato GmbH,WordPress
+33/02/15,Stamm,"Hamburg-Altona, Große Freiheit",dpsg-altona.de,"New Dream Network, LLC",WordPress
+33/02/17,Stamm,"Hamburg-Eidelstedt, Santa Lucia",-,,
+33/03/03,Stamm,"Lübeck, Johannes Prassek",dpsg-luebeck.de,Haendle & Korte GmbH,WordPress
+33/03/04,Stamm,"Rendsburg, Stern des Nordens",dpsg-rendsburg.de,Neue Medien Muennich GmbH,WordPress
+33/03/05,Stamm,"Bargteheide, Nepomuk",dpsg-bargteheide.de,comtrance service GmbH,Unknown
+33/03/06,Stamm,Digna Ochoa Quickborn,dignao.de,Deutsche Telekom AG,Unknown
+33/03/07,Stamm,dpsg  Stamm Nelson Mandela Halstenbek/Pinneberg,dpsg-halstenbek-pinneberg.de,SpaceNet AG,Joomla
+33/03/09,Stamm,"Itzehoe, Geschwister Scholl",dpsg-iz.de,dogado GmbH,WordPress
