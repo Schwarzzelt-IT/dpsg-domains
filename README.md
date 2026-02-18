@@ -30,7 +30,7 @@ Ergänzungen und Korrekturvorschläge sind jederzeit willkommen.
     - 14 von 26 Siedlungen
     - 54 %
 
-### Top 10 der genutzten Hoster (Basierend auf dem ASN)
+### Top 10 der genutzten Hoster (Basierend auf dem AS)
 
 | Hoster                                | Anzahl | %   |
 | ------------------------------------- | -----: |---: |
