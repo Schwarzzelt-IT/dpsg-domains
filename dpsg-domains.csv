@@ -24,7 +24,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 01/02/12,Stamm,"Kempen",dpsg-kempen.de
 01/02/13,Stamm,"Tönisvorst, St. Tönis",dpsg-st-toenis.de
 01/02/14,Stamm,"Kempen, St. Hubert",dpsg-st-hubert.de
-01/02/15,Stamm,"Willich-Wekeln, St. Katharina",dpsg-willich.de
+01/02/15,Stamm,"Willich, St. Katharina",dpsg-willich.de
 01/03/00,Bezirk,"Bezirk Mönchengladbach",dpsg-mg.de
 01/03/01,Stamm,"Mönchengladbach, Scheuburg",scheuburg.de
 01/03/02,Stamm,"Mönchengladbach, Kreuzfahrer",pfadfinder-odenkirchen.de
@@ -56,7 +56,6 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 01/05/15,Stamm,"Düren, Wildgänse St. Anna",wildgaense-st-anna.de
 01/06/00,Bezirk,"Bezirk Aachen-Land",-
 01/06/03,Stamm,"Eschweiler-Roehe, Deutschritter",deutschritter-roehe.de
-01/06/04,Stamm,"Dürwiss, St. Bonifatius",-
 01/06/05,Stamm,"Eschweiler-Röthgen, Hohensteiner",hohensteiner.com
 01/06/06,Stamm,"Stolberg",dpsg-stolberg.de
 01/06/09,Stamm,"Stolberg-Schevenh., Wehebachthaler",wehebachthaler.de
@@ -176,7 +175,6 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 05/03/02,Stamm,"Spalt, St. Emmeram",pfadfinder-spalt.de
 05/03/03,Stamm,"Gunzenhausen",dpsg-gunzenhausen.de
 05/04/01,Stamm,"Ingolstadt, Münsterritter",dpsg-muensterritter.de
-05/04/05,Stamm,"Ingolstadt, St. Pius",-
 06/00/00,Diözese,"Diözesanverband Essen",dpsg-essen.de
 06/01/00,Bezirk,"DPSG Bezirk Borbeck & Frohnhausen",dpsg-essen-bofro.de
 06/01/06,Stamm,"Essen-Frintrop, St. Josef",-
@@ -250,7 +248,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 06/08/13,Stamm,"Bochum-Hiltrop, Geschwister Scholl",-
 06/08/14,Stamm,"Bochum-Querenb, St. Augustinus",pfadfinder-querenburg.de
 06/08/16,Stamm,"Bochum-Weitmar, Kardinal von Galen",dpsg-weitmar.de
-06/09/00,Bezirk,"Bezirk Mülheim / Ruhr",-
+06/09/00,Bezirk,"Bezirk Mülheim - Oberhausen",-
 06/09/01,Stamm,"Mülheim/Ruhr, St. Joseph",dpsg-st-joseph.de
 06/09/02,Stamm,"St. Mariae Rosenkranz",dpsg-rosenkranz.de
 06/09/03,Stamm,"Mülheim a. d. R., St. Michael",dpsg-speldorf.de
@@ -278,7 +276,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 07/01/02,Stamm,"Hemsbach, Johanniter",dpsghemsbach.de
 07/01/03,Stamm,"Laudenbach, Cherusker",pfadfinder-laudenbach.de
 07/01/04,Stamm,"Mannheim-Neckarau, Thomas Morus",pfadis-neckarau.de
-07/01/05,Stamm,"Weinheim-Sulzbach, Guy de Larigaudie",dpsg-sulzbach.de
+07/01/05,Siedlung,"Weinheim-Sulzbach, Guy de Larigaudie",dpsg-sulzbach.de
 07/01/06,Stamm,"Mannheim-Friedrichsfeld, St. Bonifatius",pfadfinder-friedrichsfeld.de
 07/01/07,Stamm,"Mannheim-Waldhof, St. Lioba",dpsgstlioba.com
 07/01/08,Stamm,"Hirschberg-Leutershausen, St. Johannes",dpsg-leutershausen.de
@@ -287,8 +285,9 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 07/02/03,Stamm,"Kuppenheim, St. Sebastian",pfadfinder-kuppenheim.de
 07/02/04,Stamm,"Baden-Baden, Hohenbaden",dpsg-hohenbaden.de
 07/02/05,Stamm,"Karlsruhe, von Galen",dpsg-konrad.de
-07/02/06,Stamm,"Karlsruhe-Neureut, Antoine de Saint Exupery",pfadfinder-neureut.de
+07/02/06,Stamm,"Karlsruhe-Neureut, Antoine de Saint Exupery",-
 07/02/10,Stamm,"Karlsruhe-Daxlanden, Guy de Larigaudie",pfadfinder-daxlanden.de
+07/02/11,Stamm,"Pforzheim, St. Franziskus",-
 07/03/00,Bezirk,"Bezirk Ortenau-Kinzigtal",-
 07/03/03,Stamm,"Offenburg, Konradin",stamm-konradin.de
 07/03/04,Stamm,"Urloffen, St. Martin",dpsg-urloffen.de
@@ -345,7 +344,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 07/09/12,Stamm,"Bammental, Karl Leisner",pfadfinder-bammental.de
 07/09/13,Stamm,"Stamm Sr. Felicitas Heidelberg-Ziegelhausen",pfadfinder-ziegelhausen.de
 07/10/00,Bezirk,"Bezirk Bruchsal",dpsg-bezirk-bruchsal.de
-07/10/01,Siedlung,"Walzbachtal",dpsg-wpt.de
+07/10/01,Stamm,"Walzbachtal",dpsg-wpt.de
 07/10/02,Stamm,"Oberhausen, Hohe Flamme",hohe-flamme.de
 07/10/03,Stamm,"Bad Schönborn-Langenbrücken",dpsg-langenbruecken.de
 07/10/04,Stamm,"Stutensee, Pater Kolbe",pfadfinder-blankenloch.de
@@ -353,10 +352,6 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 07/10/06,Stamm,"DPSG Stamm Rheinsheim",-
 07/10/07,Stamm,"Bretten, Askola",dpsgbretten.de
 07/10/08,Stamm,"Bruchsal, St. Christophorus",dpsg-bruchsal.de
-07/11/00,Bezirk,"Bezirk Pforzheim",dpsg-pforzheim.de
-07/11/02,Stamm,"Pforzheim, Arnulf",-
-07/11/04,Siedlung,"Remchingen, Eisingen",-
-07/11/05,Stamm,"Pforzheim, St. Franziskus",-
 07/13/00,Bezirk,"Bezirk Odenwald-Tauber",dpsg-odenwald-tauber.de
 07/13/02,Stamm,"Mosbach, Bernhard von Baden",dpsg-mosbach.de
 07/13/03,Stamm,"Don Bosco, Neckarelz-Diedesheim",dpsg-neckarelz-diedesheim.de
@@ -456,7 +451,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 10/03/01,Stamm,"Langenfeld, Castanea",stamm-castanea.de
 10/03/02,Stamm,"Hochdahl, Franz v. Assisi",dpsg-hochdahl.de
 10/03/03,Stamm,"Düsseldorf, Lörick",stammloerick.de
-10/03/04,Stamm,"Düsseldorf-Gerresheim, Gerrich Margar",gerrich.de
+10/03/04,Stamm,"Düsseldorf-Gerresheim, Gerrich",gerrich.de
 10/03/06,Stamm,"Düsseldorf-Vennhausen",dpsg-vennhausen.de
 10/03/07,Stamm,"Langenfeld-Richr., St. Martin",-
 10/03/08,Stamm,"Düsseldorf-Bilk, Hohenstaufen",dpsg-hohenstaufen-bilk.de
@@ -517,7 +512,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 10/10/01,Stamm,"Euskirchen, Kreuzritter",dpsg-eu.eu
 10/10/03,Stamm,"Rheinbach, Antoine de Saint-Exupery",kallenturm.de
 10/10/04,Stamm,"Meckenheim, Swabidua",swabidua.de
-10/10/05,Stamm,"Euskirchen-Euenheim, 'Carpe diem'",pfadfinder-euenheim.de
+10/10/05,Stamm,"Euskirchen-Euenheim, 'Carpe diem'",-
 10/10/07,Stamm,"Zülpich, St. Quirinus",-
 10/10/08,Stamm,"Euskirchen-Stotzheim, St. Hubertus",dpsg-stotzheim.de
 10/12/00,Bezirk,"Bezirk Bonn",dpsg-bonn.de
@@ -538,7 +533,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 10/13/10,Stamm,"Neunk.-Seelscheid, Edelweiss",pfadfinder-seelscheid.de
 10/13/13,Stamm,"Eitorf, Shamrock",dpsg-eitorf.de
 10/13/15,Stamm,"Waldbröl, St. Georg",dpsg-waldbroel.de
-10/14/00,Bezirk,"Rhein Berg",dpsg-rhein-berg.de
+10/14/00,Bezirk,"Bezirk Rhein Berg",dpsg-rhein-berg.de
 10/14/01,Stamm,"Köln-Rath/Heumar, Johannes Bosco",dpsg-rath-heumar.de
 10/14/02,Stamm,"Köln-Porz",dpsg-impeesa-porz.de
 10/14/03,Stamm,"Köln-Kalk, Hohenstaufen",dpsg-koeln-kalk.de
@@ -577,7 +572,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 11/03/10,Stamm,"Schloßborn, Taunus-Wölfe",-
 11/04/01,Stamm,"Montabaur",dpsg-montabaur.de
 11/04/02,Stamm,"Stamm St. Rochus Simmern",dpsg-simmern.de
-11/04/03,Stamm,"Lahnstein-Oberlahnstein, St. Martin",dpsg-lahnstein.de
+11/04/03,Stamm,"Lahnstein, St. Martin",dpsg-lahnstein.de
 11/04/06,Stamm,"Wirges, Katharina Kasper",dpsg-wirges.de
 11/04/07,Stamm,"Eitelborn, Weiße Rose",dpsg-eitelborn.de
 11/05/01,Stamm,"Weilburg, Rochus Spiecker",dpsg-weilburg.de
@@ -738,12 +733,8 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 14/03/02,Stamm,"Bocholt, St. Josef",-
 14/03/04,Stamm,"Bocholt, St. Norbert",norbert-pfadis.de
 14/03/05,Stamm,"Bocholt, Hl. Kreuz",pfadfinder-heilig-kreuz.de
-14/03/06,Stamm,"Borken, St. Remigius",-
-14/03/07,Stamm,"Epe, St. Antonius",-
-14/03/09,Stamm,"Velen-Ramsdorf",-
 14/03/10,Stamm,"Isselburg",schwarzzeug.net
 14/03/11,Stamm,"Ahaus, St. Marien",dpsg-ahaus.de
-14/03/13,Stamm,"Stadtlohn",-
 14/03/16,Stamm,"Schöppingen",dpsg-schoeppingen.de
 14/03/24,Stamm,"Gescher, St. Pankratius",dpsg-gescher.de
 14/04/00,Bezirk,"Bezirk Recklinghausen",dpsg-recklinghausen.de
@@ -864,7 +855,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 16/02/16,Stamm,"Iserlohn-Nussberg, Arche",pfadfinder-nussberg.de
 16/02/18,Stamm,"Witten-Bommern, Herz Jesu",dpsg-bommern.de
 16/03/00,Bezirk,"Bezirk Soest-Hamm",dpsg-soest-hamm.de
-16/03/01,Stamm,"Bad-Westernk., Franz v. Assisi",dpsg-badwesternkotten.de
+16/03/01,Stamm,"Bad Westernk., Franz v. Assisi",dpsg-badwesternkotten.de
 16/03/02,Stamm,"Möhnesee-Körbecke, St. Pankratius",-
 16/03/03,Stamm,"Geseke, Marco Polo",dpsg-geseke.de
 16/03/04,Stamm,"Hamm-Süden",dpsg-hamm-sueden.de
@@ -885,7 +876,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 16/04/03,Stamm,"Arnsberg-Hüsten, Stamm Sankt Ludgerus",dpsg-huesten.de
 16/04/04,Stamm,"Herdringen, St. Antonius",dpsg-herdringen.de
 16/04/05,Stamm,"Eslohe-Wenholthausen, St. Cäcilia",dpsg-wenholthausen.de
-16/04/06,Stamm,"Arnsberg, Liebfrauen",dpsg-arnsberg.de
+16/04/06,Stamm,"Arnsberg, Liebfrauen",-
 16/04/07,Stamm,"Meschede-Eversberg, St. Ever.",dpsg-eversberg.de
 16/04/08,Stamm,"Brilon, Propstei",dpsg-brilon.de
 16/04/09,Stamm,"Stamm Kückelheim",-
@@ -956,7 +947,6 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 18/05/00,Bezirk,"Bezirk Niederbayern",-
 18/05/01,Stamm,"Puchhausen-Hüttenkofen",-
 18/05/03,Stamm,"Straßkirchen, Impeesa",pfadfinder-strasskirchen.de
-18/05/04,Stamm,"Landshut, Angelo Roncalli",-
 18/05/05,Stamm,"Landshut, St. Pius",-
 18/05/06,Stamm,"DPSG Stamm Viechtach",-
 18/05/07,Stamm,"Landshut, St. Wolfgang",-
@@ -979,7 +969,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 18/07/02,Stamm,"Parsberg",dpsg-parsberg.de
 18/07/03,Stamm,"Kelheim",dpsg-kelheim.de
 18/07/04,Stamm,"Saal, Christ König",pfadfinder-saal.de
-18/07/06,Stamm,"Abensberg-Offenstetten",dpsg-offenstetten.de
+18/07/06,Stamm,"Abensberg-Offenstetten",-
 18/07/07,Stamm,"Stamm Teugn",pfadfinder-teugn.de
 19/00/00,Diözese,"Diözesanverband Rottenburg-Stuttgart",dpsg.info
 19/01/00,Bezirk,"Bezirk Stuttgart",dpsg-stuttgart.de
@@ -1038,7 +1028,6 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 19/08/03,Stamm,"Ellwangen, St. Veit",dpsg-ellwangen.de
 19/08/04,Stamm,"Giengen, St. Michael",dpsg-giengen.de
 19/08/06,Stamm,"Heubach, St. Bernhard",heubacher-pfadfinder.de
-19/08/08,Stamm,"Herbrechtingen, Romero",dpsg-herbrechtingen.de
 19/08/21,Stamm,"Ulm-Nord",dpsg-ulm-nord.de
 19/08/23,Stamm,"Ulm-Söflingen",pfadfinder-ulm.de
 19/08/24,Stamm,"Rammingen",dpsg-rammingen.de
@@ -1091,7 +1080,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 20/04/05,Stamm,"Mandelbachtal/Heckendalh., St. Josef",dpsg-heckendalheim.de
 20/04/06,Stamm,"St. Ingbert-Mitte",-
 20/04/07,Stamm,"Homburg-Jägersb., St. Josef",jaegersburger-pfadfinder.de
-20/04/10,Stamm,"DPSG Johanneum",dpsg-johanneum.de
+20/04/10,Stamm,"DPSG Johanneum",-
 20/04/11,Stamm,"Niederwürzbach",dpsg-niederwürzbach.de
 20/04/13,Stamm,"DPSG Camino Homburg",dpsg-camino-homburg.de
 20/05/00,Bezirk,"Bezirk Haardt",-
@@ -1189,7 +1178,6 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 22/01/08,Stamm,"Aschaffenburg/Schweinheim",dpsg-schweinheim.de
 22/01/09,Stamm,"Heimbuchenthal, Schwarzkittel",dpsg-heimbuchenthal.de
 22/01/10,Stamm,"Albstadt",stamm-albstadt.de
-22/01/11,Stamm,"Mönchberg, Aubachtal",-
 22/01/12,Stamm,"Elsenfeld, Germania",stammgermania.de
 22/01/13,Stamm,"Alzenau",dpsg-alzenau.de
 22/01/14,Stamm,"Großostheim",pfadfinder-grossostheim.de
@@ -1228,10 +1216,9 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 31/00/00,Diözese,"Diözesanverband Magdeburg",dpsg-magdeburg.de
 31/11/02,Stamm,"Magdeburg, Unser lieben Frauen",dpsg-md.de
 31/15/01,Stamm,"Sangerhausen-Altstadt, St. Jutta",-
-31/16/01,Stamm,"Badersleben, Sankt Martin e.V.",dpsg-badersleben.de
+31/16/01,Stamm,"Badersleben, Sankt Martin e.V.",-
 31/16/02,Stamm,"Blankenburg, St. Josef",dpsg-blankenburg.de
 31/17/05,Stamm,"Halle (Saale), Phönix",dpsg-halle.de
-31/17/06,Siedlung,"Burgenlandfalken Weißenfels",-
 31/19/02,Stamm,"Drachentöter Dresden",dpsg-dresden.de
 31/19/03,Stamm,"Leipzig, Tilia",dpsg-leipzig.de
 32/00/00,Diözese,"Diözesanverband Erfurt",dpsg-thueringen.de
@@ -1249,7 +1236,7 @@ Gr. Nr.,Ebene,Gruppierung,Domain
 33/02/02,Stamm,"Hamburg-Hamm, Charles de Foucauld",dpsg-hamburg-hamm.de
 33/02/03,Stamm,"Hamburg-Farmsen, St. Ansgar",dpsg-farmsen.de
 33/02/04,Stamm,"Hamburg-Blankenese, Jacques Marquette",dpsg-blankenese.de
-33/02/05,Stamm,"Hamburg-Harburg, Kardinal Graf  v. Galen",dpsg-harburg.de
+33/02/05,Stamm,"Hamburg-Harburg, Kardinal Graf v. Galen",dpsg-harburg.de
 33/02/06,Stamm,"Hamburg-Neugraben, Störtebeker",dpsg-stoertebeker.de
 33/02/08,Stamm,"Hamburg-Poppenbüttel, Don Bosco",stamm-donbosco.de
 33/02/10,Stamm,"Hamburg-Volksdorf, St. Martin",pfadfinder-volksdorf.de
